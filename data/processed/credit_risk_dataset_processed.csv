@@ -1,0 +1,3 @@
+person_age,person_income,person_home_ownership,person_emp_length,loan_intent,loan_grade,loan_amnt,loan_int_rate,loan_status,loan_percent_income,person_credit_default,person_credit_history
+22,59000,RENT,123.0,PERSONAL,D,35000,16.02,1,0.59,,3
+21,192000,MORTGAGE,123.0,VENTURE,A,20000,6.54,0,0.1,,4
