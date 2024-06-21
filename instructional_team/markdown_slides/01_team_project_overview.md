@@ -164,7 +164,6 @@ ___Develop a program that uses data creatively to solve a problem or provide ins
 * The goal is to move down the ladder to 0OI.
 * 2OI and 3OI is where we should be spending most of our production energy.
 
-
 ---
 
 ## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
@@ -298,11 +297,11 @@ What are companies or organizations in your industry trying to achieve? What is 
 
 ~~**Bad Example:** We will compile the list of people who have offices, mark down whether or not they have shown up at the office for every day in the last month, and create a spreadsheet with those data.~~
 
-**Good Example:** We can compare the available office space to the space being used under a variety of conditions. This could include breaking the data down by building, floor, team, day of the week, month, and weather. We can investigate the capacitiy of different office layouts, an analyze the tradeoffs involved.
+**Good Example:** We can compare the available office space to the space being used under a variety of conditions. This could include breaking the data down by building, floor, team, day of the week, month, and weather. We can investigate the capacity of different office layouts, and analyze the tradeoffs involved.
 
 ---
 
-## 5. Present results and recommendations (more on this next week!)
+## 5. Present results and recommendations (more on this tomorrow!)
 
 * Know your audience.
 * Clearly articulate the takeaways.
@@ -310,7 +309,7 @@ What are companies or organizations in your industry trying to achieve? What is 
 
 ---
 
-## 5. Present results and recommendations (more on this next week!)
+## 5. Present results and recommendations (more on this tomorrow!)
 
 * Know your audience.
 * Clearly articulate the takeaways.
