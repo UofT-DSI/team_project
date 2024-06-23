@@ -36,3 +36,4 @@ I made significant progress during the first week, focusing on data preparation 
   Inconsistent Variables: Some variables had different formats or definitions across datasets, necessitating additional data cleaning and rework.
 
 Despite these challenges, I was able to clear the issues and make significant headway, laying a strong foundation for the team's analysis moving forward. Further analysis is required from the team for the rental and housing component before any conclusions or recommendations can be made. 
+
