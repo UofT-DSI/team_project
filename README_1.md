@@ -3,9 +3,9 @@
 
 ### Group#24 
 #### Team Members 
-- Shiraz Latif: 
+- Shiraz Latif: _Link to be shared tonight _
 - Jessilynn Kim: https://drive.google.com/file/d/154oUYqRxrjb2NYRciiltaPbO3xmOLw3g/view?usp=sharing 
-- Mykhailo Vitvinov:
+- Mykhailo Vitvinov: https://youtu.be/Sj4QRFj9Vk8?si=8gOwglDGda79a35Y 
 - Olena Bolokhonova: https://drive.google.com/file/d/1v07EtJ6vsUtRywuMMTopht9VIy6_oRRa/view?usp=drivesdk
 
 ## Team's approach 
