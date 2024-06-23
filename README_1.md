@@ -4,9 +4,9 @@
 ### Group#24 
 #### Team Members 
 - Shiraz Latif: 
-- Jessilynn Kim:
+- Jessilynn Kim: https://drive.google.com/file/d/154oUYqRxrjb2NYRciiltaPbO3xmOLw3g/view?usp=sharing 
 - Mykhailo Vitvinov:
-- Olena Bolokhonova: 
+- Olena Bolokhonova: https://drive.google.com/file/d/1v07EtJ6vsUtRywuMMTopht9VIy6_oRRa/view?usp=drivesdk
 
 ## Team's approach 
 ### Data Selection
@@ -17,14 +17,14 @@ Each team member reviewed Consumer Behavior and Shopping Habits dataset separate
 
 ### Roles and Responsibilities 
 Taking everyone's strength, background and circumstances into consideration, everyone contributed to the group project to ensure successful completion. 
-Shiraz setup overall framework for the project and reviewed codes as he has the most technical background. Olena dove into data and documentations of work to jumpstart the project.  Mykhailo continued the data analysis to round out the possibilities of meaningful data relationships. Jessilynn completed pre-analysis of the dataset and completed README file for the group with everyone's input. With everyone's input, we contributed as a group to provide insights and recommendations for the project. Additionally, we've leverage Rules of Engagement we've setup for the team to ensur
+Shiraz setup overall framework for the project and reviewed codes as he has the most technical background. Olena dove into data and documentations of work to jumpstart the project.  Mykhailo continued the data analysis to round out the possibilities of meaningful data relationships. Jessilynn completed pre-analysis of the dataset and completed README file for the group with everyone's input. With everyone's input, we contributed as a group to provide insights and recommendations for the project. Additionally, we've leverage Rules of Engagement we've setup for the team to ensure successful completion of this project. 
 
 ### Data Analysis 
 #### Description
 This project aims to analyze consumer behavior and shopping habits using a wide range of variables such as age, gender, purchase amount, location, product category, and more. The primary objective is to explore the relationships between these variables to uncover meaningful insights that can inform business strategies on how to drive total purchase amount.
 
 #### Purpose
-The purpose of this project is to leverage statistical analysis and machine learning techniques to understand the factors influencing customer purchase behavior. By examining how different variables, such as age and discount application, impact purchase amounts, We aim to provide data-driven recommendations for improving marketing strategies, optimizing product offerings, and enhancing overall customer satisfaction that will result in increase in total purchase amount. Specifically, the project focuses on the following goals:
+The purpose of this project is to leverage statistical analysis and machine learning techniques to understand the factors influencing customer purchase behavior. By examining how different variables, such as age and discount application, impact purchase amounts, we aim to provide data-driven recommendations for improving marketing strategies, optimizing product offerings, and enhancing overall customer satisfaction that will result in increase in total purchase amount. Specifically, the project focuses on the following goals:
     1.	Identify Key Drivers of Purchase Amounts:
         o	Determine which demographic and transactional factors significantly influence the total and average purchase amounts.
     2.	Segment Customers Effectively:
@@ -39,7 +39,7 @@ By achieving these goals, the project aims to contribute to the development of m
 
 #### Intended Audience for Data Analysis:
 
-•	Business Analysts: To gain insights into how consumer behaviours are modelled and leveraged 
+•	Business Analysts: To gain insights into how consumer behaviors are modelled and leveraged 
 •	Marketing Teams: To tailor campaigns and promotions based on customer segments and preferences and to increase subscription 
 •	Product Managers: To understand product performance and customer preferences that can lead to increased total purchases
 •	Executive Leadership: To make data-driven decisions for business growth and customer satisfaction.
@@ -56,10 +56,15 @@ By achieving these goals, the project aims to contribute to the development of m
     o	Examine the relationship between previous purchases and current spending to identify loyal customers.
  
 #### Key Insights and Recommendations:
+##### Key Insights
+Initial observations of dataset concluded that there were no variances in average purchase per transaction and review ratings by gender. When we looked at age, we also saw that age had no influence on total purchase amount. Additionally, we didn't find statistically significant difference between transactions with and without discounts nor previous purchases and higher average purchase amount. As a result, we rejected all hypotheses due to lack of statistical significance supported by regression analyses. 
 
+We've pivoted our focus to Classification model. We wanted to predict customer's subscription status based on customer's shopping habit. With accuracy of 83%, we concluded that customer shopping habits are good predictor of customer's subscription status. 
 
+##### Recommendations
+Leverage customer shopping habits to increase subscriptions. Typically, customers with subscriptions purchased items with discount applied and used promo code. Even though we didn't find statistical significance between discount with average purchase amounts, this may be due to overall reduction in price for each item customers purchased and impacted the total purchase value being lower than items purchased with regular prices. 
 
-
+As economic conditions continue to impact customer shopping habits and customers are showing price sensitivity, we recommend targeting customers who do not current have subscription and focus on discounts that will be appealing to all customers. 
 
 
 ##### Key Variables and Attributes in the Dataset:
@@ -109,7 +114,7 @@ By achieving these goals, the project aims to contribute to the development of m
 
 ## Rules of Engagement 
 
-### Engagment Channel:
+### Engagement Channel:
 1. Zoom Breakout Room
 2. Whatsapp Group
 3. Slacks
@@ -118,8 +123,8 @@ By achieving these goals, the project aims to contribute to the development of m
 6. Google Meets
 
 ### Communication:
-Leveraging Whatsapp group for main communication
-Any delays in joining meeting, completion of task, or availabilities for meeting times are shared 
+• Leveraging Whatsapp group for main communication
+• Any delays in joining meeting, completion of task, or availabilities for meeting times are shared 
 
 ### Meeting Schedule:
 1. Post live session breakout room 
