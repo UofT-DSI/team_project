@@ -82,8 +82,6 @@ class DataLoader:
 
             # Convert column values to specific type (e.g., 'int', 'float', 'str')
             df['person_credit_default'] = df['person_credit_default'].map({'Y': 1, 'N': 0}) # person credit default value from Y/N to 0 or 1
-            df['person_home_ownership'] = df['person_home_ownership'].map({'OWN': 1, 'MORTGAGE': 2, 'RENT': 3, 'OTHER': 4})
-            df['loan_intent'] = df['loan_intent'].map({'EDUCATION': 1, 'MEDICAL': 2, 'VENTURE': 3, 'PERSONAL': 4, 'HOMEIMPROVEMENT': 5, 'DEBTCONSOLIDATION': 6})
             logging.info(f"mapping data values")
 
         except Exception as ex:
