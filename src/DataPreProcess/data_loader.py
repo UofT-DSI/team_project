@@ -72,6 +72,7 @@ class DataLoader:
 
             # Remove outliers based on condition (e.g., values greater than a threshold)
             df = df[df['person_emp_length'] < 50]  # person with employment length in years over 50
+            df = df[df['person_age'] < 100]  # person with age in years over 100
             logging.info(f"removing outliers")
 
             # Rename Columns
