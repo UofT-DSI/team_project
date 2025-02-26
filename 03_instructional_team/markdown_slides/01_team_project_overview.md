@@ -98,6 +98,34 @@ Increased customer engagement by performing customer segmentation using k-means 
 
 ---
 
+# ✅ Developing a Project Plan
+
+1. Understand the business context.
+2. Identify an opportunity.
+3. Scope your analysis.
+4. Develop your solution.
+5. Present results and recommendations.
+
+### 📋 To keep in mind:
+
+* Are your insights *actionable?*
+* How robust is your analysis? *Quantify!*
+* What are the *risks* and *unknowns*?
+
+---
+
+# ✅ Developing a Project Plan
+
+1. **Understand the business context**: "We want to increase customer engagement [by X%]."
+2. **Identify an opportunity**: "Customer segmentation will enable targeted marketing campaigns, which should increase customer engagement."
+3. **Scope your analysis**: "We will use feature engineering to create segments based on purchase history and demographic data."
+4. **Develop your solution**: "We will k-means clustering with Python, and determine the optimal number of clusters using the elbow method."
+5. **Present results and recommendations**
+
+
+---
+
+
 # Selecting Projects That Showcase Your Skills
 
 Choosing the right projects for your portfolio is crucial. Each project should:
