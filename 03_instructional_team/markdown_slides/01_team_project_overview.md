@@ -161,8 +161,6 @@ Your ability to document code clearly and communicate effectively can drasticall
 
 # Project Requirements
 
-By the end of ***Project 2***:
-
 1. Each team member must __submit one Pull Request__, including writing a proper description.
 
 2. Each project must __design, implement, and test regression__.
@@ -177,10 +175,6 @@ By the end of ***Project 2***:
 
 # Project Requirements
 
-***There are no requirements for the end of Project 1!***
-However, you should think about the milestones you need to reach in Project 1
-to set yourself up for success in Project 2.
-
 1. Thoroughly understand your data and the business case for your analysis. What will the impact of your results be?
 
 2. Clean your data. Be confident in the decisions you have made while doing so (eg. default handling of NULL values).
@@ -189,11 +183,7 @@ to set yourself up for success in Project 2.
 
 ---
 
-***There are no requirements for the end of Project 1!***
-However, you should think about the milestones you need to reach in Project 1
-to set yourself up for success in Project 2.
-
-4. Make sure your code is well commented and decisions are documented. When Team Project 2 starts, you should be able to jump right back into your project without relying on memory.
+4. Make sure your code is well commented and decisions are documented.
 
 5. Keep your README up to date. Not only is that easier than writing it all at the end of your project, it will help keep you on track and ensure your alignment with your business objective.
 
@@ -414,8 +404,6 @@ Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For 
 - **Reduce Unknowns**: Lower the project's uncertainties.
 - **Efficient Estimates**: Provide well-constrained estimates on specific work items.
 - **Maximize Value**: A one-day spike giving 80% confidence can be more valuable than a three-day spike giving 90%.
-
-<!-- Speaker notes: Instructor Phil noted that during Team Project 1, students often stalled for two days due to extensive brainstorming on data handling. We're discussing spikes today because they prevent such delays by providing a structured approach to gather information and clarify project scopes efficiently. It's about time-boxing the analysis and thinking time to maximize productivity. Spikes help reduce the unknowns in a project and provide well-constrained estimates on specific work items, ensuring efficient use of resources. The goal is to deliver the most value given certain resources, so a shorter spike that provides sufficient confidence can be more valuable than a longer one. -->
 
 ---
 

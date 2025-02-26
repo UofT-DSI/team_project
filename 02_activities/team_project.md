@@ -98,9 +98,7 @@ Additionally, there are resources listed at the bottom of this page to help you 
   * How did you overcome those challenges?
   * If you had more time, what would you add?
   * What strengths do you bring to a team environment?
-
-> 🚨 Note: There are no hard requirements for the end of the Team Project 1 module, and nothing will be assessed at this stage. However, keep in mind that the work you do in Team Project 1 should set you up for success in Team Project 2, where the final requirements will be assessed. Use the time in Team Project 1 wisely to plan and prepare for the milestones you’ll need to achieve in Team Project 2.
-
+  
 ---
 ## Project Folder Structure
 

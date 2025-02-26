@@ -17,12 +17,6 @@ $ echo "Data Sciences Institute"
 
 ---
 
-# Module Overview
-
-This is a continuation of our reaction to what we observed in Team Project 1. The slides present key points and recommendations rather than following a specific order. Each slide addresses different aspects that need improvement, and they do not necessarily build on each other.
-
----
-
 # Strategic Planning for Short and Long-Term Goals
 
 Setting realistic time frames for your project stages is crucial. Use S.M.A.R.T goals to structure your planning effectively:
@@ -77,23 +71,7 @@ Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For 
 - **Efficient Estimates**: Provide well-constrained estimates on specific work items.
 - **Maximize Value**: A one-day spike giving 80% confidence can be more valuable than a three-day spike giving 90%.
 
-<!-- Speaker notes: Instructor Phil noted that during Team Project 1, students often stalled for two days due to extensive brainstorming on data handling. We're discussing spikes today because they prevent such delays by providing a structured approach to gather information and clarify project scopes efficiently. It's about time-boxing the analysis and thinking time to maximize productivity. Spikes help reduce the unknowns in a project and provide well-constrained estimates on specific work items, ensuring efficient use of resources. The goal is to deliver the most value given certain resources, so a shorter spike that provides sufficient confidence can be more valuable than a longer one. -->
-
----
-
-
-# Demonstrating the Business Impact of Your Projects
-
-Understanding and articulating the business value of your data science and machine learning projects is crucial for two main reasons:
-
-### Benefits:
-
-- **Educational**: Apply new technologies and methodologies from both data science and machine learning.
-- **Employability**: Showcase your ability to solve real-world problems, making you attractive to potential employers.
-
-Highlight your skills through projects by using relevant industry examples and metrics, such as operational improvements, technical innovations, or strategic insights.
-
-<!-- Speaker notes: Emphasize aligning data science and machine learning projects with business goals. Highlight that demonstrating business impact is about tackling complex problems and delivering meaningful insights. This supports your professional development and attractiveness to employers. Provide examples of techniques and frameworks used to showcase hands-on experience and technical proficiency. -->
+<!-- Speaker notes: participants often stalled for two days due to extensive brainstorming on data handling. We're discussing spikes today because they prevent such delays by providing a structured approach to gather information and clarify project scopes efficiently. It's about time-boxing the analysis and thinking time to maximize productivity. Spikes help reduce the unknowns in a project and provide well-constrained estimates on specific work items, ensuring efficient use of resources. The goal is to deliver the most value given certain resources, so a shorter spike that provides sufficient confidence can be more valuable than a longer one. -->
 
 ---
 
