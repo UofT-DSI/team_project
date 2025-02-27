@@ -5,7 +5,7 @@ _class: invert
 paginate: true
 ---
 
-# Effective Project Planning and Time Management
+# Project Planning and Impact
 
 ```
 $ echo "Data Sciences Institute"
@@ -14,6 +14,29 @@ $ echo "Data Sciences Institute"
 <!-- Importance of planning in data science projects, overview of planning phases, and key considerations. -->
 
 <!-- Speaker notes: Emphasize the necessity of structured planning for successful project outcomes. -->
+
+--- 
+
+# Executing Your Project
+
+---
+
+# Leveraging Project Management Methodologies
+
+Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For now, let's focus on an essential concept: **spikes**.
+
+**Spikes** are short, time-boxed research tasks designed to answer specific questions or solve particular problems before starting the main project work.
+
+---
+
+# Benefits of Spikes
+
+- **Clarify Requirements**: Quickly gather necessary information.
+- **Solve Problems Early**: Address technical uncertainties before main development.
+- **Prevent Delays**: Avoid excessive brainstorming that can stall progress.
+- **Reduce Unknowns**: Lower the project's uncertainties.
+- **Efficient Estimates**: Provide well-constrained estimates on specific work items.
+- **Maximize Value**: A one-day spike giving 80% confidence can be more valuable than a three-day spike giving 90%.
 
 ---
 
@@ -52,26 +75,30 @@ Setting realistic time frames for your project stages is crucial. Use S.M.A.R.T 
 - **Achievable**: Use Python’s Pandas library for data manipulation.
 - **Relevant**: Crucial for immediate analysis to inform the marketing team’s next steps.
 - **Time-bound**: Complete in two days to start analysis on schedule.
----
-
-# Leveraging Project Management Methodologies
-
-Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For now, let's focus on an essential concept: **spikes**.
-
-**Spikes** are short, time-boxed research tasks designed to answer specific questions or solve particular problems before starting the main project work.
 
 ---
 
-# Benefits of Spikes
+# Why Business Impact Matters
 
-- **Clarify Requirements**: Quickly gather necessary information.
-- **Solve Problems Early**: Address technical uncertainties before main development.
-- **Prevent Delays**: Avoid excessive brainstorming that can stall progress.
-- **Reduce Unknowns**: Lower the project's uncertainties.
-- **Efficient Estimates**: Provide well-constrained estimates on specific work items.
-- **Maximize Value**: A one-day spike giving 80% confidence can be more valuable than a three-day spike giving 90%.
+Understanding and articulating the business value of your data science and machine learning projects is crucial for two main reasons:
 
-<!-- Speaker notes: participants often stalled for two days due to extensive brainstorming on data handling. We're discussing spikes today because they prevent such delays by providing a structured approach to gather information and clarify project scopes efficiently. It's about time-boxing the analysis and thinking time to maximize productivity. Spikes help reduce the unknowns in a project and provide well-constrained estimates on specific work items, ensuring efficient use of resources. The goal is to deliver the most value given certain resources, so a shorter spike that provides sufficient confidence can be more valuable than a longer one. -->
+### Benefits:
+
+- **Educational**: Apply new technologies and methodologies from both data science and machine learning.
+- **Employability**: Showcase your ability to solve real-world problems, making you attractive to potential employers.
+
+Highlight your skills through projects by using relevant industry examples and metrics, such as operational improvements, technical innovations, or strategic insights.
+
+<!-- Speaker notes: Emphasize aligning data science and machine learning projects with business goals. Highlight that demonstrating business impact is about tackling complex problems and delivering meaningful insights. This supports your professional development and attractiveness to employers. Provide examples of techniques and frameworks used to showcase hands-on experience and technical proficiency. -->
+
+---
+
+# How to Demonstrate the Business Impact of Your Project
+
+* Creating business value means allocating resources (eg. money, employees, time, hardware) in the way that generates the best return.
+    * As a technical team, it is your job to enable the strategic decision makers with the information they need.
+
+![w:650 center](./images/business_data_context.png)
 
 ---
 
@@ -94,19 +121,117 @@ Increased customer engagement by performing customer segmentation using k-means 
 
 ---
 
-# How to Effectively Communicate Business Impact
+# ✅ Developing a Project Plan
 
-Showcase your project’s business value by applying specialized skills:
+1. Understand the business context.
+2. Identify an opportunity.
+3. Scope your analysis.
+4. Develop your solution.
+5. Present results and recommendations.
 
-- **📊 Data Science Stream**: Apply the techniques learned in your sampling and visualization modules to deliver impactful data insights.
-- **⚙️ Machine Learning Stream**: Demonstrate model efficiency and algorithm optimization with detailed performance graphs and clear pipeline visualizations.
+### 📋 To keep in mind:
 
-Ensure your presentations translate complex data into clear, actionable business insights.
-
-<!-- Speaker notes: Encourage Data Science stream participants to apply their sampling and visualization techniques effectively. Machine Learning stream participants should focus on illustrating model efficiency and optimization. Emphasize that both groups need to communicate how their projects provide tangible business value to potential employers. -->
+* Are your insights *actionable?*
+* How robust is your analysis? *Quantify!*
+* What are the *risks* and *unknowns*?
 
 ---
 
+# ✅ Developing a Project Plan
+
+1. **Understand the business context**: "We want to increase customer engagement [by X%]."
+2. **Identify an opportunity**: "Customer segmentation will enable targeted marketing campaigns, which should increase customer engagement."
+3. **Scope your analysis**: "We will use feature engineering to create segments based on purchase history and demographic data."
+4. **Develop your solution**: "We will k-means clustering with Python, and determine the optimal number of clusters using the elbow method."
+5. **Present results and recommendations**
+
+---
+
+# Handling Uncertainty in Your Project
+
+Throughout your project, there will be moments when you are unsure of how to proceed, or what task to work on next. The _Orders of Ignorance_ is a concept that can help guide you in these situations.
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**A "meta-model of ignorance" that can help us put the unknowns of projects into context.**
+
+0. Zeroth Order Ignorance (0OI): Lack of Ignorance
+1. First Order Ignorance (1OI): Lack of Knowledge
+2. Second Order Ignorance (2OI): Lack of Awareness
+3. Third Order Ignorance (3OI): Lack of Process
+4. Fourth Order Ignorance (4OI): Meta Ignorance
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**0. Zeroth Order Ignorance (0OI): Lack of Ignorance**
+
+* You know there is a door.
+* You know where the door is.
+* You can see the path to the door clearly.
+
+![bg right contain](./images/0OI.jpg)
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**1. First Order Ignorance (1OI): Lack of Knowledge**
+
+* You know there is a door.
+* You do not know the path to the door, but you know you can find the path with a tool that you have (eg. a flashlight).
+
+![bg right contain](./images/1OI.jpg)
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**Second Order Ignorance (2OI): Lack of Awareness**
+
+* You know there is a door, but you do not know how to get to it or where to start looking.
+
+![bg right contain](./images/2OI.jpg)
+
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**Third Order Ignorance (3OI): Lack of Process**
+
+* You know you are in a room, but don't know if there is any way out.
+
+![bg right contain](./images/3OI.jpg)
+
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**Fourth Order Ignorance (4OI): Meta Ignorance**
+
+* Complete and utter darkness.
+
+![bg right contain](./images/4OI.jpg)
+
+---
+
+# Demonstrating Technical and Business Skills
+
+- **Demonstrate Coding Proficiency**: All projects should showcase your ability to write clean, efficient, and well-documented code.
+- **Showcase Communication Skills**: All projects should effectively communicated complex data-driven insights to non-technical team members.
+
+Your ability to document code clearly and communicate effectively can drastically reduce onboarding times for new team members and help non-technical stakeholders make informed decisions, thereby enhancing overall project success and team efficiency.
+
+---
+
+# Communicating & Presenting Your Findings
+
+---
 # Making Complex Concepts Accessible
 
 Communicating complex data science concepts clearly is essential for audiences without technical backgrounds, **including recruiters and HR teams.**
@@ -147,6 +272,26 @@ This approach effectively communicates complex concepts to both technical and no
 
 ---
 
+# How to Effectively Communicate Business Impact
+
+Showcase your project’s business value by applying specialized skills:
+
+- **📊 Data Science Stream**: Apply the techniques learned in your sampling and visualization modules to deliver impactful data insights.
+- **⚙️ Machine Learning Stream**: Demonstrate model efficiency and algorithm optimization with detailed performance graphs and clear pipeline visualizations.
+
+Ensure your presentations translate complex data into clear, actionable business insights.
+
+<!-- Speaker notes: Encourage Data Science stream participants to apply their sampling and visualization techniques effectively. Machine Learning stream participants should focus on illustrating model efficiency and optimization. Emphasize that both groups need to communicate how their projects provide tangible business value to potential employers. -->
+
+---
+
+# Final Presentation & Feedback Session
+
+- This day is for showcasing your progress on the project goals so far. It’s not about meeting all the requirements yet, but about presenting what your project is about, what you’ve done, and what you plan to do next. It’s also a chance to get feedback and ideas from your fellow participants. 
+- Each team has a maximum of 5 minutes to present. Put your best foot forward, as you may never get such a diverse audience of this size again. The audience is comprised of your fellow participants, who now have a good background in data science and machine learning, and have extensive expertise in their respective industries. They will serve as judges and provide valuable feedback.
+
+---
+
 # Next Steps Post-Certification
 
 As you transition from the certificate program, continue to build and showcase your skills.
@@ -163,11 +308,4 @@ Actively applying for jobs should proceed in tandem with these activities.
 
 ---
 
-# Saturday Showcase
-
-- This day is for showcasing your progress on the project goals so far. It’s not about meeting all the requirements yet, but about presenting what your project is about, what you’ve done, and what you plan to do next. It’s also a chance to get feedback and ideas from your fellow participants. 
-- Each team has a maximum of 5 minutes to present. Put your best foot forward, as you may never get such a diverse audience of this size again. The audience is comprised of your fellow participants, who now have a good background in data science and machine learning, and have extensive expertise in their respective industries. They will serve as judges and provide valuable feedback.
-
----
-
-# Questions and Answers
+# Questions?
