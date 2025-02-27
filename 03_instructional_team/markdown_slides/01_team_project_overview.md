@@ -159,6 +159,19 @@ Your ability to document code clearly and communicate effectively can drasticall
 
 ---
 
+# Some Open Source Real Datasets
+
+- **University of Toronto Libraries Data**: [onesearch.library.utoronto.ca/researchdata](https://onesearch.library.utoronto.ca/researchdata/accessing-data-and-tools)
+- **Open Government Data Portal (Canada)**: [open.canada.ca/data](https://open.canada.ca/data)
+- **Ontario Data Catalogue**: [data.ontario.ca](https://data.ontario.ca)
+- **Kaggle Datasets**: [kaggle.com/datasets](https://www.kaggle.com/datasets)
+- **UCI Machine Learning Repository**: [archive.ics.uci.edu/ml](https://archive.ics.uci.edu/ml/index.php)
+- **World Bank Open Data**: [data.worldbank.org](https://data.worldbankzorg)
+
+Utilize these resources to find relevant datasets that can help you build projects showcasing your ability to solve real-world problems, demonstrate industry relevance, and provide actionable insights.
+
+---
+
 # Project Requirements
 
 By the end of ***Project 2***:
