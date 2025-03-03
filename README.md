@@ -61,7 +61,7 @@ OR
 ## Learning Outcomes
 
 By the end of this module, participants will be able to:
-1. **Apply multiple technical skills in a cohesive project** by integrating concepts from Python, Git, Shell, SQL, Linear Regression, Classification, Resampling, Production, Sampling, Visualization, Algorithms, Data Structures, and Deep Learning.
+1. **Apply multiple technical skills in a cohesive project** by integrating concepts from Python, Git, Shell, SQL, Linear Regression, Classification, Resampling, Production, Data Science Stream Content (Sampling and Visualization) or Machine Learning Software Foundation Stream Content (Algorithms, Data Structures, and Deep Learning).
 2. **Develop a portfolio-ready project** that demonstrates technical proficiency, problem-solving abilities, and the ability to generate meaningful insights from data.
 3. **Write high-quality, maintainable code** by practicing structured coding, effective commenting, debugging, and refactoring in a team setting.
 4. **Document and present project findings effectively** by maintaining a clear README, summarizing key decisions, and delivering insights in a way that is accessible to both technical and non-technical audiences.
