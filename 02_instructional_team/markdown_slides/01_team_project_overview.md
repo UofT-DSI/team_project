@@ -88,33 +88,10 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 # Project Requirements
 
-1. Each team member must __submit one Pull Request__, including writing a proper description.
-
-2. Each project must __design, implement, and test regression__.
-
-3. Each team must create a __data visualization__ or __machine learning model__.
-
-4. Each team must __create a README__ that explains the project, your team's approach, and any relevant details. Keep in mind that the repo will be on each team member's profile, so be thoughtful about the details you include here.
-
-5. Each team member must __create a video__ about their learnings and experience.
-
----
-
-# Project Requirements
-
-1. Thoroughly understand your data and the business case for your analysis. What will the impact of your results be?
-
-2. Clean your data. Be confident in the decisions you have made while doing so (eg. default handling of NULL values).
-
-3. Test out regression analyses. It may take several tries before you are satisfied with your results and understand how you can provide the most insight. Projects are usually iterative, so dedicate time to investigation!
-
----
-
-# Project Requirements
-
-4. Make sure your code is well commented and decisions are documented.
-
-5. Keep your README up to date. Not only is that easier than writing it all at the end of your project, it will help keep you on track and ensure your alignment with your business objective.
+* **Good Code & Structure** → Code should be well-commented, clean, and follow a logical structure. It should be easy to read and maintain.
+* **Strong Documentation & Presentation** → The README should be clear, well-written, and explain the dataset, findings, and methodology. The project should be easy to understand for both technical and non-technical reviewers.
+* **Application of Module Teachings** → Projects should showcase key technical skills, such as regression modeling, deep learning models, data visualizations, or strong analysis of sampling techniques.
+* **Effective Team Collaboration** → Teams should follow best practices for Git (small commits, branches, pull requests) and actively participate in stand-ups and progress updates.
 
 ---
 
@@ -123,7 +100,6 @@ Select data types strategically to align with your project's objectives. Ensure 
 - Ensure your GitHub repository is neatly organized; avoid unused or empty folders and ensure each folder has a clear purpose.
 - Use READMEs in key folders (like `src`, `iac`, `backend`, `frontend`, etc.) to detail their contents and purpose, aiding clarity for complex sections.
 - Avoid READMEs in simple folders (like `images`, `docs`, etc.), unless there's specific information that needs to be explained.
-
 
 ---
 
