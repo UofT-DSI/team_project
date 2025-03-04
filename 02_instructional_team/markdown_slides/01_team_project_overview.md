@@ -205,27 +205,41 @@ The following two weeks will fly by quickly! How will you ensure that you can ac
 
 ---
 
-# This week's schedule:
+# Module Schedule
 
-__Tues, Oct. 15th:__ 1 hour of content delivery, 1.5 hours of co-work.
+_Each day will include "standup" meetings with your team, and either the Technical Facilitator or Learning Support._
 
-__Wed, Oct. 16th:__ 2.5 hours of co-work.
+__Day 1 (Tues):__ 1 hour of content delivery, 1.5 hours of co-work.
 
-__Thurs, Oct. 17th:__ 1 hour of case study, 1.5 hours of co-work.
+__Day 2 (Wed):__ 1 hour of content delivery, 1.5 hours of co-work.
 
-__Fri, Oct. 18th:__ 3 hours of co-work.
+__Day 3 (Thurs):__ Co-work.
 
-__Sat, Oct. 19th:__ 3 hours of co-work.
+__Day 4 (Fri):__ Co-work.
+
+__Day 5 (Sat):__ Co-work.
+
+---
+
+# Module Schedule
+
+__Day 6 (Tues):__ Review + co-work.
+
+__Day 7 (Wed):__ Co-work.
+
+__Day 8 (Thurs):__ Co-work.
+
+__Day 9 (Fri):__ Co-work.
+
+__Day 10 (Sat):__ Project showcase.
 
 ---
 
 # Goals for Today
 
-* Understand your objective and your data.
+* Start developing a business case.
 
-* Break down project into milestones and assign tasks.
-
-* Get started!
+* Choose your dataset.
 
 ---
 
