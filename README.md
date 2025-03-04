@@ -41,28 +41,11 @@ The task in front of your team is deliberately open-ended. You will have to make
 
 At the end of the project, all team members are encouraged to fork the repo onto their profile so that prospective employers can view the project.
 
-This project should incorporate skills taught and used in the following modules:
-
-* Introduction to Building Software (Git, Shell & Python)
-* SQL
-* Linear Regression, Classification, and Resampling
-* Scaling to Production
-
-AND
-
-> * Visualization (Data Science Certificate)
-> * Sampling (Data Science Certificate)
-
-OR
-
-> * Algorithm & Data Structures (Machine Learning Software Foundations Certificate)
-> * Deep Learning (Machine Learning Software Foundations Certificate)
-
 ## Learning Outcomes
 
 By the end of this module, participants will be able to:
 1. **Apply multiple technical skills in a cohesive project** by integrating concepts from Python, Git, Shell, SQL, Linear Regression, Classification, Resampling, Production, Data Science Stream Content (Sampling and Visualization) or Machine Learning Software Foundation Stream Content (Algorithms, Data Structures, and Deep Learning).
-2. **Develop a portfolio-ready project** that demonstrates technical proficiency, problem-solving abilities, and the ability to generate meaningful insights from data.
+2. **Develop a portfolio-ready project** that demonstrates technical proficiency, problem-solving skills, and the ability to generate meaningful insights from data.
 3. **Write high-quality, maintainable code** by practicing structured coding, effective commenting, debugging, and refactoring in a team setting.
 4. **Document and present project findings effectively** by maintaining a clear README, summarizing key decisions, and delivering insights in a way that is accessible to both technical and non-technical audiences.
 5. **Collaborate effectively in a team environment** by using Git best practices (small commits, branches, pull requests), participating in stand-ups, and maintaining effective communication.
@@ -202,24 +185,16 @@ For additional insights on **effective teamwork, meetings, and collaboration**, 
 
 Your team must update [this document](https://docs.google.com/spreadsheets/d/1ujQ41zlxstGwzU6Hpy6BcZHdi1afGjUpIgIkjv8aar0/edit?usp=sharing) with the links to your project repository and the dataset that you have chosen to analyze. _You will not be submitting a PR to the DSI repository to submit your project_. We will be evaluating your repository directly.
 
-After **Week 1**, you will be evaluated on the following criteria:
+After Week 1, you will be evaluated on your project's README file. By this point, it must include a detailed project proposal. This should include the business motivation for your project, the dataset you have chosen to use, and any risks or unknowns you have identified.
 
-1. Your project's README must include a detailed project proposal. This should include the business motivation for your project, the dataset you have chosen to use, and any risks or unknowns you have identified.
-2. You must have a cleaned version of your chosen dataset. The steps you have taken to clean your dataset must be outlined in the README as well.
-3. Although we will not be evaluating this, we also strongly recommend that you have attempted at least some basic investigative analysis on your dataset. This will help you understand your data and set you up to succeed in Week 2.
-
-
-
-### How to Present Your Work
-
-After **Week 2**, your final project will be evaluated on the following criteria:
+Your final project will be evaluated on the following criteria:
 
 1. Each team member must have created a pull request, and reviewed and merged a different pull request.
 2. (a) For **Data Science** teams, your project must include a visualization that presents new insights into the chosen dataset.
 
    (b) For **Machine Learning** teams, your project must include a machine learning model that you have developed and implemented to obtain new insights.
 
-3. In addition to the project proposal from Week 1, each project's README should describe the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the below questions. 
+3. In addition to the project proposal from Week 1, each project's README should describe the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the [guiding questions](#reviewing-your-dataset). 
 
 
 ## Getting Help
