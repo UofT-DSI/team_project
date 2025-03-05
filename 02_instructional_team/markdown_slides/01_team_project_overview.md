@@ -76,13 +76,9 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 # Project Examples
 
-[TTC Transit Delay Project](https://github.com/JasonYao3/TTC_transit_delay_proj)
-
-[Mortgage Risk Assessment Project](https://github.com/movcha/team_project)
-(Cohort 3)
-
-[Mexican Government Report Text Analysis](https://github.com/PhantomInsights/mexican-government-report)
-(independent)
+* [Pharma Spending by Countries](https://github.com/amlloren/pharma_spending_by_countries) (Cohort 4)
+* [Breast Cancer Wisconsin](https://github.com/HimeshiS/Team5_Breast_Cancer_Wisconsin) (Cohort 4)
+* [NYSE Prediction](https://github.com/triggor/nyse-prediction) (Cohort 4)
 
 ---
 

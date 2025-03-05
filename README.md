@@ -25,7 +25,7 @@
     * [Additional Resources](#additional-resources)
 * [Other Resources](#other-resources)
     * [Git](#git)
-    * [Example Projects](#example-projects)
+    * [Past Participant Projects](#past-participant-projects)
 
 ## Overview
 
@@ -237,8 +237,8 @@ Your final project will be evaluated on the following criteria:
 * [Interactive Rebase: Git In Practice - Part 2 - Thinktecture AG](https://www.thinktecture.com/en/tools/git-interactive-rebase/)
 * [Git merge conflicts | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts#:~:text=Understanding%20merge%20conflicts,automatically%20determine%20what%20is%20correct.)
 
-### Example Projects
+### Past Participant Projects
 
-* [TTC Transit Delay Project](https://github.com/JasonYao3/TTC_transit_delay_proj)
-* [Mortgage Risk Assessment Project](https://github.com/movcha/team_project)
-* [Mexican Government Report Text Analysis](https://github.com/PhantomInsights/mexican-government-report)
+* [Pharma Spending by Countries](https://github.com/amlloren/pharma_spending_by_countries)
+* [Breast Cancer Wisconsin](https://github.com/HimeshiS/Team5_Breast_Cancer_Wisconsin)
+* [NYSE Prediction](https://github.com/triggor/nyse-prediction)
