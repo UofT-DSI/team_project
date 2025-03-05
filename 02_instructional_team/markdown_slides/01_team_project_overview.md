@@ -35,7 +35,7 @@ __Goal:__ To enhance your portfolio by showcasing this team project as evidence 
 - Your project will:  
   - Demonstrate **your technical abilities and problem-solving skills**.  
   - Serve as a **portfolio piece** for recruiters, hiring managers, and data science professionals.  
-  - Showcase **what you've learned throughout the certificate program**.  
+  - Showcase **what you've learned throughout the certificate**.  
 - Once completed and refined based on feedback, you can **add it to your resume, GitHub, and LinkedIn** to increase your professional visibility.  
 
 ---
@@ -146,7 +146,7 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 ---
 
-## Merge Conflicts
+# Merge Conflicts
 
 It is likely that you will encounter merge conflicts when combining your work as a team.
 Make sure you've reviewed the Git material regarding how to resolve merge conflicts properly!
@@ -208,7 +208,7 @@ console.log(totalPrice); // Output: 125
 # Better Documentation - STAR Method
 
 - The STAR method is typically used for answering interview questions, and applying this structure to your project overviews can be highly effective. 
-- By organizing your projects using the Situation, Task, Action, Result format, your portfolio essentially speaks for you, conducting a virtual interview with potential employers even in your absence. 
+- By organizing your projects using the **Situation, Task, Action, Result** format, your portfolio essentially speaks for you, conducting a virtual interview with potential employers even in your absence. 
 - This approach ensures that employers can clearly understand the value and impact of your work, even without direct interaction.
 - Remember, the results don't have to be ground breaking, anything that showcases your abilities in data science/machine learning, even "**learning**" counts as an important result.
 
@@ -256,7 +256,7 @@ __Day 1 (Tues):__ 1 hour of content delivery, 1.5 hours of co-work.
 
 __Day 2 (Wed):__ 1 hour of content delivery, 1.5 hours of co-work.
 
-__Day 3 (Thurs):__ Co-work.
+__Day 3 (Thurs):__ Co-work + Standup Meetings.
 
 __Day 4 (Fri):__ Co-work.
 
@@ -266,11 +266,11 @@ __Day 5 (Sat):__ Co-work.
 
 # Module Schedule
 
-__Day 6 (Tues):__ Review + co-work.
+__Day 6 (Tues):__ Review + co-work + Standup Meetings.
 
-__Day 7 (Wed):__ Co-work.
+__Day 7 (Wed):__ Co-work + Standup Meetings.
 
-__Day 8 (Thurs):__ Co-work.
+__Day 8 (Thurs):__ Case Study.
 
 __Day 9 (Fri):__ Co-work.
 

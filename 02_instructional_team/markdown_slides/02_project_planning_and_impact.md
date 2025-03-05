@@ -294,7 +294,7 @@ Ensure your presentations translate complex data into clear, actionable business
 
 # Next Steps Post-Certification
 
-As you transition from the certificate program, continue to build and showcase your skills.
+As you transition from the certificate, continue to build and showcase your skills.
 
 ### Strategies for Continuous Growth:
 
