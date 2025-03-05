@@ -27,6 +27,53 @@ $ echo "Data Sciences Institute"
 __Goal:__ To enhance your portfolio by showcasing this team project as evidence of your ability to deliver real-world value to an employer.
 
 ---
+
+# Why This Module Matters  
+
+- This module is designed to help you create a **high-impact project** that showcases your skills in data science and machine learning.  
+- A **strong team project** can enhance your professional portfolio, making you more competitive in job applications.  
+- Your project will:  
+  - Demonstrate **your technical abilities and problem-solving skills**.  
+  - Serve as a **portfolio piece** for recruiters, hiring managers, and data science professionals.  
+  - Showcase **what you've learned throughout the certificate program**.  
+- Once completed and refined based on feedback, you can **add it to your resume, GitHub, and LinkedIn** to increase your professional visibility.  
+
+---
+
+# Prepping You for the Industry  
+
+- Throughout the certificate, we’ve introduced the analogy:  
+  - **Participants → Junior Data Professionals**  
+  - **Learning Supports → Senior Data Professionals**  
+  - **Technical Facilitators → Product Managers**  
+- We’re now taking this further by incorporating **stand-up meetings**, a common practice in professional data teams.  
+- Stand-ups help teams **stay aligned, communicate blockers, and improve efficiency**.  
+- By practicing stand-ups, you’ll develop **strong communication and collaboration skills** that are essential in the workplace.  
+
+---
+
+# Daily "Standups"
+
+* Each day, a member of the DSI instructional team will guide your team through a stand-up.  
+* Stand-ups are **quick, structured check-ins** that help teams stay on track and remove obstacles.  
+* The goal is not to compete for who did the most work—it’s to ensure the entire team is working effectively and efficiently.  
+* This is a great opportunity to help your teammates and **resolve blockers early**.  
+* Stand-ups should take no more than **10 minutes**.  
+
+---
+
+# Daily "Standups"  
+
+* Each team member should describe:  
+  * What did you work on yesterday?  
+  * What will you be working on today?  
+  * Are you unsure about any of your tasks?  
+  * Are you blocked by anything?  
+
+<!-- 
+Standups are not intended to see who has done the most work or who is slacking. They are a collaborative way to ensure that all team members know who is working on what, and whether anyone is stuck on their task and needs help. They are also extremely helpful in identifying blockers that may not be obvious. DSI team should emphasize the collaborative aspect of this and not put anyone on the spot. Learning should also be considered as a "task".
+-->
+---
 # What is a Good Portfolio?
 
 A good portfolio showcases your best work and highlights skills that are highly valued by employers in data science and machine learning. It demonstrates your ability to handle real-world tasks, making you an attractive candidate for employment.
@@ -228,33 +275,6 @@ __Day 8 (Thurs):__ Co-work.
 __Day 9 (Fri):__ Co-work.
 
 __Day 10 (Sat):__ Project showcase.
-
----
-
-# Daily "Standups"
-
-* Each day, a member of the DSI instructional team will help guide you through a "standup".
-
-* This is a common practice in industry, where project teams have quick meetings each day to align on priorities. The goal is not to compete for who did the most work, _it is to make sure the entire team is working as effectively and efficiently as possible_.
-
-* Standups are the perfect opportunity to help your fellow team members out and resolve any blockers.
-
-* Standups should take no more than 10 minutes!
-
----
-
-# Daily "Standups"
-
-* Each team member should describe:
-    * What did you work on yesterday?
-    * What will you be working on today?
-    * Are you unsure about any of your tasks?
-    * Are you blocked by anything?
-
-
-<!-- 
-Standups are not intended to see who has done the most work or who is slacking. They are a collaborative way to ensure that all team members know who is working on what, and whether anyone is stuck on their task and needs help. They are also extremely helpful in identifying blockers that may not be obvious. DSI team should emphasize the collaborative aspect of this and not put anyone on the spot. Learning should also be considered as a "task".
--->
 
 ---
 
