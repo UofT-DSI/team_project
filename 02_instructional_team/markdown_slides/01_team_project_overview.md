@@ -235,7 +235,9 @@ __Day 10 (Sat):__ Project showcase.
 
 * Each day, a member of the DSI instructional team will help guide you through a "standup".
 
-* This is a common practice in industry, where project teams have quick meetings each day to align on priorities, and to resolve blockers. The goal is not to compete for who did the most work, it is to make sure the entire team is working as effectively and efficiently as possible.
+* This is a common practice in industry, where project teams have quick meetings each day to align on priorities. The goal is not to compete for who did the most work, _it is to make sure the entire team is working as effectively and efficiently as possible_.
+
+* Standups are the perfect opportunity to help your fellow team members out and resolve any blockers.
 
 * Standups should take no more than 10 minutes!
 
