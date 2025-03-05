@@ -31,7 +31,7 @@
 
 The Team Project will showcase your ability to deliver business value in a real-world context. You should include this project in your portfolio, and be comfortable presenting it to potential employers as a demonstration of your skillset.
 
-In your assigned team of 4-5, you will collaboratively create a program to analyze an open-sourced dataset. For example, your team might wish to examine the relationship between the length of movies and the ratings users give them. Or, you may wish to explore the relationship between the size of a dog breed and the associated genetic ailments of that breed. You are encouraged to pick a business case that interests you, is robust enough to flexibly practice your skills, and is well-suited for showcasing business impact.
+In your assigned team of 6, you will collaboratively create a program to analyze an open-sourced dataset. For example, your team might wish to examine the relationship between the length of movies and the ratings users give them. Or, you may wish to explore the relationship between the size of a dog breed and the associated genetic ailments of that breed. You are encouraged to pick a business case that interests you, is robust enough to flexibly practice your skills, and is well-suited for showcasing business impact.
 
 The task in front of your team is deliberately open-ended. You will have to make many decisions together, such as:
 * How will you make sure all team members can contribute to the project?

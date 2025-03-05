@@ -231,6 +231,31 @@ __Day 10 (Sat):__ Project showcase.
 
 ---
 
+# Daily "Standups"
+
+* Each day, a member of the DSI instructional team will help guide you through a "standup".
+
+* This is a common practice in industry, where project teams have quick meetings each day to align on priorities, and to resolve blockers. The goal is not to compete for who did the most work, it is to make sure the entire team is working as effectively and efficiently as possible.
+
+* Standups should take no more than 10 minutes!
+
+---
+
+# Daily "Standups"
+
+* Each team member should describe:
+    * What did you work on yesterday?
+    * What will you be working on today?
+    * Are you unsure about any of your tasks?
+    * Are you blocked by anything?
+
+
+<!-- 
+Standups are not intended to see who has done the most work or who is slacking. They are a collaborative way to ensure that all team members know who is working on what, and whether anyone is stuck on their task and needs help. They are also extremely helpful in identifying blockers that may not be obvious. DSI team should emphasize the collaborative aspect of this and not put anyone on the spot. Learning should also be considered as a "task".
+-->
+
+---
+
 # Goals for Today
 
 * Start developing a business case.
