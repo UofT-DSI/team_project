@@ -29,9 +29,9 @@
 
 ## Overview
 
-The Team Project will showcase your ability to deliver business value in a real-world context. You should include this project in your portfolio, and be comfortable presenting it to potential employers as a demonstration of your skillset.
+The Team Project will showcase your ability to deliver business value in a real-world context. This project will be a valuable asset in your portfolio, and you should be comfortable presenting it to prospective employers as a demonstration of your skillset.
 
-In your assigned team of 6, you will collaboratively create a program to analyze an open-sourced dataset. For example, your team might wish to examine the relationship between the length of movies and the ratings users give them. Or, you may wish to explore the relationship between the size of a dog breed and the associated genetic ailments of that breed. You are encouraged to pick a business case that interests you, is robust enough to flexibly practice your skills, and is well-suited for showcasing business impact.
+In your assigned team of ~6, you will collaboratively create a program to analyze an open-sourced dataset. For example, your team might wish to examine the relationship between the length of movies and the ratings users give them. Or, you may wish to explore the relationship between the size of a dog breed and the associated genetic ailments of that breed. You are encouraged to pick a business case that interests you, is robust and flexible enough to practise your skills, and is well-suited for showcasing business impact.
 
 The task in front of your team is deliberately open-ended. You will have to make many decisions together, such as:
 * How will you make sure all team members can contribute to the project?
@@ -39,7 +39,7 @@ The task in front of your team is deliberately open-ended. You will have to make
 * What is the question you're trying to answer through your data analysis?
 * What tasks need to be completed to get to your final output?
 
-At the end of the project, all team members are encouraged to fork the repo onto their profile so that prospective employers can view the project.
+At the end of the project, all team members are encouraged to fork the repo onto their profiles so that prospective employers can view the project.
 
 ## Learning Outcomes
 
@@ -72,9 +72,9 @@ By the end of this module, participants will be able to:
 
 The Team Project schedule will include some content delivery in the live learning sessions, however most of the session time (and additional work periods) will be used to work on your project collaboratively as a team. There will also be a case study presented during the second week, which is a great opportunity to see a real-life example of the type of project you are working on.
 
-Although the project is not due until the end of the second week, it is important to plan out your work and stick to a schedule, so there will be specific daily milestones that you are expected to meet. The Technical Facilitator and Learning Support will check in frequently, and help guide you throughout the module. Constant communication with your team is crucial in short projects such as this!
+Although the project is not due until the end of the second week, it is important to plan out your work and stick to a schedule, so there will be milestones that you are expected to meet. The Technical Facilitator and Learning Support will check in with your team daily, and help guide you throughout the module. Constant communication with your team is crucial in short projects such as this!
 
-Your project plan will be evaluated at the end of your first week, and your finished project will be evaluated at the end of the second week. The last work period will also be a Project Showcase, where you will be able to present your project to us and the rest of your cohort. This is a great opportunity to practice showcasing the value of your work, and we encourage you to record it and include the video in your portfolios!
+Your project plan will be evaluated at the end of your first week, and your finished project will be evaluated at the end of the second week. The last work period will also be a Project Showcase, where you will have to opportunity to present your project to the DSI team and the rest of your cohort. This is a great opportunity to practice showcasing the value of your work, and we encourage you to record it and include the video in your portfolios!
 
 
 ### Schedule
@@ -194,7 +194,14 @@ Your final project will be evaluated on the following criteria:
 
    (b) For **Machine Learning** teams, your project must include a machine learning model that you have developed and implemented to obtain new insights.
 
-3. In addition to the project proposal from Week 1, each project's README should describe the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the [guiding questions](#reviewing-your-dataset). 
+3. In addition to the project proposal from Week 1, each project's README should describe the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the [guiding questions](#reviewing-your-dataset).
+
+4. Each team member must record a 3-5 minute video reflecting on your experience. You may each choose where to host your own video, however _it should be public and a link to each team member's video should be included in your project README_. This video is meant to be an asset to your portfolio, and should be available for prospective employers. Your videos should answer the following questions:
+    * What did you learn?
+    * What challenges did you face?
+    * How did you overcome those challenges?
+    * If you had more time, what would you add?
+    * What strengths do you bring to a team environment?
 
 
 ## Getting Help

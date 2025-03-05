@@ -197,22 +197,11 @@ function calculateTotal(price, quantity) {
     return price * quantity;
 }
 
-// Example usage: Calculates the total price for 5 items at $25 each by multiplying the price
-// per item ($25) with the quantity (5), and stores the result in the totalPrice variable.
+// Example usage: Calculates the total price for 5 items at $25 each by multiplying the price per item ($25) 
+// with the quantity (5), and stores the result in the totalPrice variable.
 let totalPrice = calculateTotal(25, 5);
 console.log(totalPrice); // Output: 125
 ```
-
----
-
-# Better Documentation - STAR Method
-
-- The STAR method is typically used for answering interview questions, and applying this structure to your project overviews can be highly effective. 
-- By organizing your projects using the **Situation, Task, Action, Result** format, your portfolio essentially speaks for you, conducting a virtual interview with potential employers even in your absence. 
-- This approach ensures that employers can clearly understand the value and impact of your work, even without direct interaction.
-- Remember, the results don't have to be ground breaking, anything that showcases your abilities in data science/machine learning, even "**learning**" counts as an important result.
-
-
 
 ---
 
