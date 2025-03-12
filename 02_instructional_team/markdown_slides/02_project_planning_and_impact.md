@@ -17,6 +17,22 @@ $ echo "Data Sciences Institute"
 
 --- 
 
+# Review
+
+* Yesterday, we discussed the goals of the Team Project and the value that it can bring to each of your portfolios. This is an opportunity to ***showcase the skills*** that you've learned, and your ability to apply them to a ***real-world problem*** to deliver ***real business value***.
+
+* You should now be reasonably aligned with your team on the **industry** that you will be analyzing, the **business question** that you want to answer, and the **type of data** you will be using.
+
+---
+
+# Today's Content
+
+1. Executing your project and dealing with uncertainty
+2. Business impact
+3. Expectations for today
+
+---
+
 # Executing Your Project
 
 ---
@@ -25,7 +41,86 @@ $ echo "Data Sciences Institute"
 
 Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For now, let's focus on an essential concept: **spikes**.
 
-**Spikes** are short, time-boxed research tasks designed to answer specific questions or solve particular problems before starting the main project work.
+**Spikes** are short, time-boxed research tasks designed to answer specific questions or solve particular problems before starting the main project work. They are designed to _reduce uncertainty_.
+
+---
+
+
+# Handling Uncertainty in Your Project
+
+Throughout your project, there will be moments when you are unsure of how to proceed, or what task to work on next. The _Orders of Ignorance_ is a concept that can help guide you in these situations.
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**A "meta-model of ignorance" that can help us put the unknowns of projects into context.**
+
+0. Zeroth Order Ignorance (0OI): Lack of Ignorance
+1. First Order Ignorance (1OI): Lack of Knowledge
+2. Second Order Ignorance (2OI): Lack of Awareness
+3. Third Order Ignorance (3OI): Lack of Process
+4. Fourth Order Ignorance (4OI): Meta Ignorance
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**0. Zeroth Order Ignorance (0OI): Lack of Ignorance**
+
+* You know there is a door.
+* You know where the door is.
+* You can see the path to the door clearly.
+
+![bg right contain](./images/0OI.jpg)
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**1. First Order Ignorance (1OI): Lack of Knowledge**
+
+* You know there is a door.
+* You do not know the path to the door, but you know you can find the path with a tool that you have (e.g. a flashlight).
+
+![bg right contain](./images/1OI.jpg)
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**Second Order Ignorance (2OI): Lack of Awareness**
+
+* You know there is a door, but you do not know how to get to it or where to start looking.
+
+![bg right contain](./images/2OI.jpg)
+
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**Third Order Ignorance (3OI): Lack of Process**
+
+* You know you are in a room, but don't know if there is any way out.
+
+![bg right contain](./images/3OI.jpg)
+
+
+---
+
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+**Fourth Order Ignorance (4OI): Meta Ignorance**
+
+* Complete and utter darkness.
+
+![bg right contain](./images/4OI.jpg)
+
+---
+## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+
+* **Spikes** help us reduce the order of our ignorance!
 
 ---
 
@@ -78,49 +173,6 @@ Setting realistic time frames for your project stages is crucial. Use S.M.A.R.T 
 
 ---
 
-# Why Business Impact Matters
-
-Understanding and articulating the business value of your data science and machine learning projects is crucial for two main reasons:
-
-### Benefits:
-
-- **Educational**: Apply new technologies and methodologies from both data science and machine learning.
-- **Employability**: Showcase your ability to solve real-world problems, making you attractive to potential employers.
-
-Highlight your skills through projects by using relevant industry examples and metrics, such as operational improvements, technical innovations, or strategic insights.
-
-<!-- Speaker notes: Emphasize aligning data science and machine learning projects with business goals. Highlight that demonstrating business impact is about tackling complex problems and delivering meaningful insights. This supports your professional development and attractiveness to employers. Provide examples of techniques and frameworks used to showcase hands-on experience and technical proficiency. -->
-
----
-
-# How to Demonstrate the Business Impact of Your Project
-
-* Creating business value means allocating resources (eg. money, employees, time, hardware) in the way that generates the best return.
-    * As a technical team, it is your job to enable the strategic decision makers with the information they need.
-
-![w:650 center](./images/business_data_context.png)
-
----
-
-# Examples Across Sectors (Part 1)
-
-### Healthcare Example
-"Improved patient outcomes by developing a predictive model using Python and scikit-learn. Data was preprocessed using pandas to handle missing values and standardize features. Logistic regression was selected through cross-validation due to its interpretability and performance."
-
-### Retail Example
-"Optimized inventory management with SQL and Tableau. Data was cleaned and aggregated using SQL queries to identify sales patterns. Visualizations in Tableau helped to forecast demand, leading to cost savings."
-
-*⏭️ Continued on next slide...*
-
----
-
-# Examples Across Sectors (Part 2)
-
-### Marketing Example
-Increased customer engagement by performing customer segmentation using k-means clustering with Python. Feature engineering was conducted to create meaningful segments based on purchase history and demographics. The optimal number of clusters was determined using the elbow method, which helps identify the point where adding more clusters does not significantly improve the model.
-
----
-
 # ✅ Developing a Project Plan
 
 1. Understand the business context.
@@ -146,77 +198,50 @@ Increased customer engagement by performing customer segmentation using k-means 
 5. **Present results and recommendations**
 
 ---
-
-# Handling Uncertainty in Your Project
-
-Throughout your project, there will be moments when you are unsure of how to proceed, or what task to work on next. The _Orders of Ignorance_ is a concept that can help guide you in these situations.
+# Business Impact
 
 ---
 
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+# Why Business Impact Matters
 
-**A "meta-model of ignorance" that can help us put the unknowns of projects into context.**
+Understanding and articulating the business value of your data science and machine learning projects is crucial for two main reasons:
 
-0. Zeroth Order Ignorance (0OI): Lack of Ignorance
-1. First Order Ignorance (1OI): Lack of Knowledge
-2. Second Order Ignorance (2OI): Lack of Awareness
-3. Third Order Ignorance (3OI): Lack of Process
-4. Fourth Order Ignorance (4OI): Meta Ignorance
+### Benefits:
 
----
+- **Educational**: Apply new technologies and methodologies from both data science and machine learning.
+- **Employability**: Showcase your ability to solve real-world problems, making you attractive to potential employers.
 
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+Highlight your skills through projects by using relevant industry examples and metrics, such as operational improvements, technical innovations, or strategic insights.
 
-**0. Zeroth Order Ignorance (0OI): Lack of Ignorance**
-
-* You know there is a door.
-* You know where the door is.
-* You can see the path to the door clearly.
-
-![bg right contain](./images/0OI.jpg)
+<!-- Speaker notes: Emphasize aligning data science and machine learning projects with business goals. Highlight that demonstrating business impact is about tackling complex problems and delivering meaningful insights. This supports your professional development and attractiveness to employers. Provide examples of techniques and frameworks used to showcase hands-on experience and technical proficiency. -->
 
 ---
 
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+# Delivering Business Value
 
-**1. First Order Ignorance (1OI): Lack of Knowledge**
+* Creating business value means allocating resources (e.g. money, employees, time, hardware) in the way that generates the best return.
+    * As a technical team, it is your job to enable the strategic decision makers with the information they need.
 
-* You know there is a door.
-* You do not know the path to the door, but you know you can find the path with a tool that you have (eg. a flashlight).
-
-![bg right contain](./images/1OI.jpg)
+![w:650 center](./images/business_data_context.png)
 
 ---
 
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+# Examples Across Sectors (Part 1)
 
-**Second Order Ignorance (2OI): Lack of Awareness**
+### Healthcare Example
+"***Improved patient outcomes*** by developing a predictive model using Python and scikit-learn. Data was preprocessed using pandas to handle missing values and standardize features. Logistic regression was selected through cross-validation due to its interpretability and performance."
 
-* You know there is a door, but you do not know how to get to it or where to start looking.
+### Retail Example
+"***Optimized inventory management*** with SQL and Tableau. Data was cleaned and aggregated using SQL queries to identify sales patterns. Visualizations in Tableau helped to ***forecast demand, leading to cost savings of 5%."***
 
-![bg right contain](./images/2OI.jpg)
-
-
----
-
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
-
-**Third Order Ignorance (3OI): Lack of Process**
-
-* You know you are in a room, but don't know if there is any way out.
-
-![bg right contain](./images/3OI.jpg)
-
+*⏭️ Continued on next slide...*
 
 ---
 
-## [The Five Orders of Ignorance](https://www.5oi.org/the-five-orders-of-ignorance)
+# Examples Across Sectors (Part 2)
 
-**Fourth Order Ignorance (4OI): Meta Ignorance**
-
-* Complete and utter darkness.
-
-![bg right contain](./images/4OI.jpg)
+### Marketing Example
+***Increased customer engagement by 8%*** by performing customer segmentation using k-means clustering with Python. Feature engineering was conducted to create meaningful segments based on purchase history and demographics. The optimal number of clusters was determined using the elbow method, which helps identify the point where adding more clusters does not significantly improve the model.
 
 ---
 
@@ -305,6 +330,32 @@ As you transition from the certificate, continue to build and showcase your skil
 Actively applying for jobs should proceed in tandem with these activities.
 
 <!-- Speaker notes: Emphasize that maintaining a portfolio with 5-6 diverse projects is ideal for demonstrating a commitment to the field and depth of skills. Clarify that the focus should be on the quality of projects rather than simply meeting a numerical target. Encourage participants to continuously apply for jobs, using their portfolios to strengthen their applications and showcase their ongoing engagement and expertise. Remind them that even after the modules end, they still have access to the Slack community (more information will come out later). This platform can be a valuable resource for finding project partners, asking questions, and getting feedback on their work. Additionally, advise them to present completed projects on LinkedIn. This not only timestamps their active engagement in relevant projects during job searches but also enhances their visibility and personal branding on a professional network. -->
+
+---
+# Team Goals for Today
+
+1. Dig deeper into your business question to understand the value your will be delivering. ***Who are your stakeholders and why do they care about your project?***
+
+2. Explore your dataset. Is it clean? What are its limitations? ***Will you be able to answer your question with this dataset?*** Start your analysis.
+
+3. Add your project plan to your team's README file. This plan should include details on:
+    * What value does your project bring to the industry?
+    * How will you answer your business question with your chosen dataset?
+    * What are the risks and uncertainties?
+    * What methods and technologies will you use?
+
+4. Assign data cleaning and analysis tasks to team members.
+
+---
+
+# Team Goals for Today
+
+Conduct a practise stand-up with your team! You should each be able to talk about:
+
+* What you worked on yesterday.
+* What you are planning to do today.
+* Do you have enough detail to work on your tasks?
+* Are there any blockers?
 
 ---
 
