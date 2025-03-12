@@ -81,7 +81,7 @@ Throughout your project, there will be moments when you are unsure of how to pro
 **1. First Order Ignorance (1OI): Lack of Knowledge**
 
 * You know there is a door.
-* You do not know the path to the door, but you know you can find the path with a tool that you have (eg. a flashlight).
+* You do not know the path to the door, but you know you can find the path with a tool that you have (e.g. a flashlight).
 
 ![bg right contain](./images/1OI.jpg)
 
@@ -219,7 +219,7 @@ Highlight your skills through projects by using relevant industry examples and m
 
 # Delivering Business Value
 
-* Creating business value means allocating resources (eg. money, employees, time, hardware) in the way that generates the best return.
+* Creating business value means allocating resources (e.g. money, employees, time, hardware) in the way that generates the best return.
     * As a technical team, it is your job to enable the strategic decision makers with the information they need.
 
 ![w:650 center](./images/business_data_context.png)
