@@ -19,6 +19,7 @@
         * [Further Reading on Teamwork & Collaboration](#further-reading-on-teamwork--collaboration)
 * [Submitting Your Project](#submitting-your-project)
     * [Submission & Evaluation](#submission--evaluation)
+    * [Project Showcase](#project-showcase)
     * [How to Present Your Work](#how-to-present-your-work)
 * [Getting Help](#getting-help)
     * [Troubleshooting & FAQs](#troubleshooting--faqs)
@@ -202,6 +203,21 @@ Your final project will be evaluated on the following criteria:
     * How did you overcome those challenges?
     * If you had more time, what would you add?
     * What strengths do you bring to a team environment?
+
+### Project Showcase
+
+* Each team will have 5 minutes to present your project during the Project Showcase on March 22nd.
+
+* This is not a lot of time, so you should not try to describe every step of your project.
+
+* Instead, think of it as an "elevator pitch".
+
+    * Assume that the audience is not an expert in your industry. Provide the required context.
+    * Who are your intended stakeholders and why should they care about your project?
+    * Explain your dataset in a way that your audience can understand.
+    * BRIEFLY describe the tools/technologies that you used.
+    * What are the key outcomes and takeaways? What is the business impact of your findings? Highlight one or two key visualizations or metrics.
+    * If you had more time, what would your team have explored next?
 
 
 ## Getting Help
