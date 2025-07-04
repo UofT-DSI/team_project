@@ -40,40 +40,6 @@ __Goal:__ To enhance your portfolio by showcasing this team project as evidence 
 
 ---
 
-# Prepping You for the Industry  
-
-- Throughout the certificate, we’ve introduced the analogy:  
-  - **Participants → Junior Data Professionals**  
-  - **Learning Supports → Senior Data Professionals**  
-  - **Technical Facilitators → Product Managers**  
-- We’re now taking this further by incorporating **stand-up meetings**, a common practice in professional data teams.  
-- Stand-ups help teams **stay aligned, communicate blockers, and improve efficiency**.  
-- By practicing stand-ups, you’ll develop **strong communication and collaboration skills** that are essential in the workplace.  
-
----
-
-# Daily "Standups"
-
-* Each day, a member of the DSI instructional team will guide your team through a stand-up.  
-* Stand-ups are **quick, structured check-ins** that help teams stay on track and remove obstacles.  
-* The goal is not to compete for who did the most work—it’s to ensure the entire team is working effectively and efficiently.  
-* This is a great opportunity to help your teammates and **resolve blockers early**.  
-* Stand-ups should take no more than **10 minutes**.  
-
----
-
-# Daily "Standups"  
-
-* Each team member should describe:  
-  * What did you work on yesterday?  
-  * What will you be working on today?  
-  * Are you unsure about any of your tasks?  
-  * Are you blocked by anything?  
-
-<!-- 
-Standups are not intended to see who has done the most work or who is slacking. They are a collaborative way to ensure that all team members know who is working on what, and whether anyone is stuck on their task and needs help. They are also extremely helpful in identifying blockers that may not be obvious. DSI team should emphasize the collaborative aspect of this and not put anyone on the spot. Learning should also be considered as a "task".
--->
----
 # What is a Good Portfolio?
 
 A good portfolio showcases your best work and highlights skills that are highly valued by employers in data science and machine learning. It demonstrates your ability to handle real-world tasks, making you an attractive candidate for employment.
@@ -143,6 +109,13 @@ Select data types strategically to align with your project's objectives. Ensure 
 - Ensure your GitHub repository is neatly organized; avoid unused or empty folders and ensure each folder has a clear purpose.
 - Use READMEs in key folders (like `src`, `iac`, `backend`, `frontend`, etc.) to detail their contents and purpose, aiding clarity for complex sections.
 - Avoid READMEs in simple folders (like `images`, `docs`, etc.), unless there's specific information that needs to be explained.
+
+---
+
+# Managing your Repository as a Team
+
+- Do not commit directly to the **main** branch!
+- 
 
 ---
 
@@ -237,15 +210,50 @@ The following two weeks will fly by quickly! How will you ensure that you can ac
 
 ---
 
+# Prepping You for the Industry  
+
+- Throughout the certificate, we’ve introduced the analogy:  
+  - **Participants → Junior Data Professionals**  
+  - **Learning Supports → Senior Data Professionals**  
+  - **Technical Facilitators → Product Managers**  
+- We’re now taking this further by incorporating **stand-up meetings**, a common practice in professional data teams.  
+- Stand-ups help teams **stay aligned, communicate blockers, and improve efficiency**.  
+- By practicing stand-ups, you’ll develop **strong communication and collaboration skills** that are essential in the workplace.  
+
+---
+
+# Daily "Standups"
+
+* Each day, a member of the DSI instructional team will guide your team through a stand-up.  
+* Stand-ups are **quick, structured check-ins** that help teams stay on track and remove obstacles.  
+* The goal is not to compete for who did the most work—it’s to ensure the entire team is working effectively and efficiently.  
+* This is a great opportunity to help your teammates and **resolve blockers early**.  
+* Stand-ups should take no more than **10 minutes**.  
+
+---
+
+# Daily "Standups"  
+
+* Each team member should describe:  
+  * What did you work on yesterday?  
+  * What will you be working on today?  
+  * Are you unsure about any of your tasks?  
+  * Are you blocked by anything?  
+
+<!-- 
+Standups are not intended to see who has done the most work or who is slacking. They are a collaborative way to ensure that all team members know who is working on what, and whether anyone is stuck on their task and needs help. They are also extremely helpful in identifying blockers that may not be obvious. DSI team should emphasize the collaborative aspect of this and not put anyone on the spot. Learning should also be considered as a "task".
+-->
+---
+
 # Module Schedule
 
 _Each day will include "standup" meetings with your team, and either the Technical Facilitator or Learning Support._
 
-__Day 1 (Tues):__ 1 hour of content delivery, 1.5 hours of co-work.
+__Day 1 (Tues):__ [no session]
 
 __Day 2 (Wed):__ 1 hour of content delivery, 1.5 hours of co-work.
 
-__Day 3 (Thurs):__ Co-work + Standup Meetings.
+__Day 3 (Thurs):__ 0.5 hours of content delivery, 2 hours of co-work.
 
 __Day 4 (Fri):__ Co-work.
 
