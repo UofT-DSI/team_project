@@ -15,7 +15,7 @@
         * [Data Visualization Guiding Questions](#data-visualization-guiding-questions)
         * [Machine Learning Model Guiding Questions](#machine-learning-model-guiding-questions)
     * [Folder Structure & Repo Setup](#folder-structure--repo-setup)
-    * [How to Work as a Team](#how-to-work-as-a-team)
+    * [Tips for Working as a Team](#tips-for-working-as-a-team)
         * [Further Reading on Teamwork & Collaboration](#further-reading-on-teamwork--collaboration)
 * [Submitting Your Project](#submitting-your-project)
     * [Submission & Evaluation](#submission--evaluation)
@@ -32,7 +32,7 @@
 
 The Team Project will showcase your ability to deliver business value in a real-world context. This project will be a valuable asset in your portfolio, and you should be comfortable presenting it to prospective employers as a demonstration of your skillset.
 
-In your assigned team of ~6, you will collaboratively create a program to analyze an open-sourced dataset. For example, your team might wish to examine the relationship between the length of movies and the ratings users give them. Or, you may wish to explore the relationship between the size of a dog breed and the associated genetic ailments of that breed. You are encouraged to pick a business case that interests you, is robust and flexible enough to practise your skills, and is well-suited for showcasing business impact.
+In your assigned team of ~4-5, you will collaboratively create a program to analyze an open-sourced dataset. For example, your team might wish to examine the relationship between the length of movies and the ratings users give them. Or, you may wish to explore the relationship between the size of a dog breed and the associated genetic ailments of that breed. You are encouraged to pick a business case that interests you, is robust and flexible enough to practise your skills, and is well-suited for showcasing business impact. We will provide recommended datasets for each team to choose from, but the rest is up to you!
 
 The task in front of your team is deliberately open-ended. You will have to make many decisions together, such as:
 * How will you make sure all team members can contribute to the project?
@@ -57,17 +57,17 @@ By the end of this module, participants will be able to:
 **Questions can be submitted to the 'help' channel on Slack.**
 
 * Technical Facilitator: 
-  * **Phil Van-Lane**(he/him)
+  * **Phil Van-Lane** (he/him)
   phil.vanlane@mail.utoronto.ca
 
 * Learning Support Staff:
 
   * **Aditya Kulkarni** (he/him)
   aditya.kulkarni@mail.utoronto.ca
-  * **Farzaneh Hashemi** (she/her)
-  fhashemi.ma@gmail.com
-  * **Sergii Khomych** (he/him)
-  svkhomich1@gmail.com
+  * **Ernani Fantinatti**
+  ernanif@fantinatti.com
+  * **Laura MacKew**
+  lauramackew@gmail.com
 
 ### Module Delivery & Expectations
 
@@ -75,14 +75,14 @@ The Team Project schedule will include some content delivery in the live learnin
 
 Although the project is not due until the end of the second week, it is important to plan out your work and stick to a schedule, so there will be milestones that you are expected to meet. The Technical Facilitator and Learning Support will check in with your team daily, and help guide you throughout the module. Constant communication with your team is crucial in short projects such as this!
 
-Your project plan will be evaluated at the end of your first week, and your finished project will be evaluated at the end of the second week. The last work period will also be a Project Showcase, where you will have to opportunity to present your project to the DSI team and the rest of your cohort. This is a great opportunity to practice showcasing the value of your work, and we encourage you to record it and include the video in your portfolios!
+Your project plan will be evaluated at the end of your first week, and your finished project will be evaluated at the end of the second week. The last work period will also be a Project Showcase, where you will have the opportunity to present your project to the DSI team and the rest of your cohort. This is the best opportunity to practice showcasing the value of your work, and we encourage you to record it and include the video in your portfolios!
 
 
 ### Schedule
 
 |Day 1|Day 2|Day 3|Day 4|Day 5|
 |-----|-----|-----|-----|-----|
-|Live Learning + Work Period | Live Learning + Work Period | Work Period | Work Period|Work Period|
+|[no session]| Live Learning + Work Period | Work Period | Work Period|Work Period|
 
 
 |Day 6|Day 7|Day 8|Day 9|Day 10|
@@ -161,9 +161,9 @@ Each team is responsible for creating their own Git repository for the Team Proj
 * **README:** This file!
 * **.gitignore:** Files to exclude from this folder.
 
-### How to Work as a Team
+### Tips for Working as a Team
 
-* Thoroughly understand your data and the business case for your analysis. What will the impact of your results be?
+* Make sure you all thoroughly understand your data and the business case for your analysis. What will the impact of your results be?
 * Clean your data. Be confident in the decisions you have made while doing so (e.g., default handling of NULL values).
 * Test out regression analyses and machine learning models/data visualizations. It may take several tries before you are satisfied with your results and understand how you can provide the most insight.
 * Make sure your code is well-commented and decisions are documented.
@@ -184,7 +184,7 @@ For additional insights on **effective teamwork, meetings, and collaboration**, 
 
 ### Submission & Evaluation
 
-Your team must update [this document](https://docs.google.com/spreadsheets/d/1ujQ41zlxstGwzU6Hpy6BcZHdi1afGjUpIgIkjv8aar0/edit?usp=sharing) with the links to your project repository and the dataset that you have chosen to analyze. _You will not be submitting a PR to the DSI repository to submit your project_. We will be evaluating your repository directly.
+Your team must update [this document](https://docs.google.com/spreadsheets/d/1A0erikAdHCZIGNg7RSmMDYng7YWJd8kxOATlMPn-3r4/edit?usp=sharing) with the links to your project repository and the dataset that you have chosen to analyze. _You will not be submitting a PR to the DSI repository to submit your project_. We will be evaluating your repository directly.
 
 After Week 1, you will be evaluated on your project's README file. By this point, it must include a detailed project proposal. This should include the business motivation for your project, the dataset you have chosen to use, and any risks or unknowns you have identified.
 
@@ -197,7 +197,9 @@ Your final project will be evaluated on the following criteria:
 
 3. In addition to the project proposal from Week 1, each project's README should describe the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the [guiding questions](#reviewing-your-dataset).
 
-4. Each team member must record a 3-5 minute video reflecting on your experience. You may each choose where to host your own video, however _it should be public and a link to each team member's video should be included in your project README_. This video is meant to be an asset to your portfolio, and should be available for prospective employers. Your videos should answer the following questions:
+4. Your project must include ***one completely reproducible feature***. This could be a single visualization, training and storing a model, or using a previously trained model to predict results, and the value of the feature should be described in your README. It could be formatted as a self-contained Jupyter notebook or a script, however anyone new to your project should be able to reproduce it based on the instructions provided, including any software, data, or file dependencies.
+
+5. Each team member must record a 3-5 minute video reflecting on your experience. You may each choose where to host your own video, however _it should be public and a link to each team member's video should be included in your project README_. This video is meant to be an asset to your portfolio, and should be available for prospective employers. Your videos should answer the following questions:
     * What did you learn?
     * What challenges did you face?
     * How did you overcome those challenges?
@@ -206,7 +208,7 @@ Your final project will be evaluated on the following criteria:
 
 ### Project Showcase
 
-* Each team will have 5 minutes to present your project during the Project Showcase on March 22nd.
+* Each team will have 5 minutes to present your project during the Project Showcase on July 26th.
 
 * This is not a lot of time, so you should not try to describe every step of your project.
 
