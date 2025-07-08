@@ -18,7 +18,7 @@ $ echo "Data Sciences Institute"
 
 2. Developing a Project Plan
 
-3. Project Requirements
+3. Project Goals and Requirements
 
 4. Working as a Team
 
@@ -49,6 +49,15 @@ A good portfolio showcases your best work and highlights skills that are highly 
 - **Highlight your unique contributions and skills:** This personalization shows employers that you're not just completing assignments but are engaged and innovating on your projects.
 
 ---
+
+# Demonstrating Technical and Business Skills
+
+- **Demonstrate Coding Proficiency**: All projects should showcase your ability to write clean, efficient, and well-documented code.
+- **Showcase Communication Skills**: All projects should effectively communicate complex data-driven insights in a non-technical way.
+
+Your ability to document code clearly and communicate effectively can drastically reduce onboarding times for new team members and help non-technical stakeholders make informed decisions, thereby enhancing overall project success and team efficiency.
+
+---
 # Types of Projects to Include in Your Portfolio
 
 Including a diverse range of projects in your portfolio can significantly enhance your appeal to potential employers. Consider including a variety of project types to demonstrate the breadth and depth of your data science skills:
@@ -67,7 +76,7 @@ For more, read "[How to Create a Project Portfolio for Data Science Job Applicat
 
 Choosing the right projects for your portfolio is crucial. Each project should:
 
-- **Solve Real Problems**: Use actual datasets to address genuine issues in your field. (*examples in the next slide*)
+- **Solve Real Problems**: Use actual datasets to address genuine issues in your field.
 - **Demonstrate Industry Relevance**: Select projects that are pertinent to your specific area, such as marketing analytics for marketers or predictive maintenance for engineers.
 - **Provide Actionable Insights**: Focus on projects that deliver clear, practical outcomes that demonstrate your ability to impact real-world scenarios.
 
@@ -75,15 +84,103 @@ These criteria ensure that your projects not only highlight your technical skill
 
 ---
 
+
 # Showcase Projects That Use Diverse Data Types
 
 Enhance your projects by effectively using a mix of structured, unstructured, and time series data:
 
-- **Structured Data**: Employ database data for clear, quantifiable insights.
+- **Structured Data**: Employ databases for clear, quantifiable insights.
 - **Unstructured Data**: Add depth with text, images, or videos.
 - **Time Series Data**: Utilize data in sequential order for trend analysis and forecasting.
 
 Select data types strategically to align with your project's objectives. Ensure each type contributes to a clear and coherent narrative, avoiding unnecessary complexity to maintain focus and utility.
+
+---
+
+# Developing a Project Plan
+
+---
+
+# ✅ Developing a Project Plan
+
+1. **Understand the business context**: "We want to increase customer engagement by 10%."
+2. **Identify an opportunity**: "Customer segmentation will enable targeted marketing campaigns, which should increase customer engagement."
+3. **Scope your analysis**: "We will use feature engineering to create segments based on purchase history and demographic data."
+4. **Develop your solution**: "We will k-means clustering with Python, and determine the optimal number of clusters using the elbow method."
+5. **Present results and recommendations**: "We predict that applying targeted marketing based on 5 different consumer profiles will increase customer engagement by 10%."
+
+---
+
+# ✅ Developing a Project Plan
+
+1. Understand the business context.
+2. Identify an opportunity.
+3. Scope your analysis.
+4. Develop your solution.
+5. Present results and recommendations.
+
+### 📋 To keep in mind:
+
+* Are your insights *actionable?*
+* How robust is your analysis? *Quantify!*
+* What are the *risks* and *unknowns*?
+
+---
+
+# Project Goals
+
+---
+
+# Project Goals
+
+* **Good Code & Structure** → Code should be well-commented, clean, and follow a logical structure. It should be easy to read and maintain.
+* **Strong Documentation & Presentation** → The README should be clear, well-written, and explain the dataset, findings, and methodology. The project should be easy to understand for both technical and non-technical reviewers.
+* **Application of Module Teachings** → Projects should showcase key technical skills, such as regression modeling, deep learning models, data visualizations, or strong analysis of sampling techniques.
+* **Effective Team Collaboration** → Teams should follow best practices for Git (small commits, branches, pull requests) and actively participate in stand-ups and progress updates.
+
+---
+
+# Project Requirements
+
+---
+# Final Project Submission
+
+Your final project will be evaluated on the following criteria:
+
+1. Each team member must have created a pull request, and reviewed and merged a different pull request.
+
+2. (a) For **Data Science** teams, your project must include at least one visualization that presents new insights into the chosen dataset.
+
+   (b) For **Machine Learning** teams, your project must include at least one machine learning model that you have developed and implemented to obtain new insights.
+
+---
+
+# Final Project Submission
+
+3. Each project's README should describe the project objective, the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the [guiding questions](#reviewing-your-dataset).
+
+---
+
+# Final Project Submission
+
+4. Your project must include ***one completely reproducible feature***. This could be a single visualization, training and storing a model, or using a previously trained model to predict results, and the value of the feature should be described in your README. It could be formatted as a self-contained Jupyter notebook or a script, however anyone new to your project should be able to reproduce it based on the instructions provided, including any software, data, or file dependencies.
+
+---
+
+# Final Project Submission
+
+5. Each team member must record a 3-5 minute video reflecting on your experience. You may each choose where to host your own video, however _it should be public and a link to each team member's video should be included in your project README_. This video is meant to be an asset to your portfolio, and should be available for prospective employers. Your videos should answer the following questions:
+    * What did you learn?
+    * What challenges did you face?
+    * How did you overcome those challenges?
+    * If you had more time, what would you add?
+    * What strengths do you bring to a team environment?
+
+---
+
+# Expectations for Week 1
+
+After Week 1, you will be evaluated on your project's README file. By this point, it must include a detailed project proposal. This should include the business motivation for your project, the dataset you have chosen to use, and any risks or unknowns you have identified.
 
 ---
 
@@ -92,15 +189,15 @@ Select data types strategically to align with your project's objectives. Ensure 
 * [Pharma Spending by Countries](https://github.com/amlloren/pharma_spending_by_countries) (Cohort 4)
 * [Breast Cancer Wisconsin](https://github.com/HimeshiS/Team5_Breast_Cancer_Wisconsin) (Cohort 4)
 * [NYSE Prediction](https://github.com/triggor/nyse-prediction) (Cohort 4)
+* [Bank Marketing Campaign](https://github.com/darshan-kale-dsi/Bank-Marketing-Campaign) (Cohort 5)
+* [Customer Purchasing Behaviours](https://github.com/sunshinesharon/Customer-Purchasing-Behaviors) (Cohort 5)
+* [Stroke Prediction](https://github.com/RuiQianSun/team7) (Cohort 5)
 
 ---
 
-# Project Requirements
+# Working as a Team
 
-* **Good Code & Structure** → Code should be well-commented, clean, and follow a logical structure. It should be easy to read and maintain.
-* **Strong Documentation & Presentation** → The README should be clear, well-written, and explain the dataset, findings, and methodology. The project should be easy to understand for both technical and non-technical reviewers.
-* **Application of Module Teachings** → Projects should showcase key technical skills, such as regression modeling, deep learning models, data visualizations, or strong analysis of sampling techniques.
-* **Effective Team Collaboration** → Teams should follow best practices for Git (small commits, branches, pull requests) and actively participate in stand-ups and progress updates.
+## GitHub
 
 ---
 
@@ -115,7 +212,7 @@ Select data types strategically to align with your project's objectives. Ensure 
 # Managing your Repository as a Team
 
 - Do not commit directly to the **main** branch!
-- 
+- Each feature should be developed in its own branch, then merged into **main** when it has been completed and tested.
 
 ---
 
@@ -123,6 +220,12 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 It is likely that you will encounter merge conflicts when combining your work as a team.
 Make sure you've reviewed the Git material regarding how to resolve merge conflicts properly!
+
+---
+
+# Working as a Team
+
+## Documentation
 
 ---
 

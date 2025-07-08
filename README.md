@@ -64,9 +64,9 @@ By the end of this module, participants will be able to:
 
   * **Aditya Kulkarni** (he/him)
   aditya.kulkarni@mail.utoronto.ca
-  * **Ernani Fantinatti**
+  * **Ernani Fantinatti** (he/him)
   ernanif@fantinatti.com
-  * **Laura MacKew**
+  * **Laura MacKew** (she/her)
   lauramackew@gmail.com
 
 ### Module Delivery & Expectations
@@ -267,3 +267,6 @@ Your final project will be evaluated on the following criteria:
 * [Pharma Spending by Countries](https://github.com/amlloren/pharma_spending_by_countries)
 * [Breast Cancer Wisconsin](https://github.com/HimeshiS/Team5_Breast_Cancer_Wisconsin)
 * [NYSE Prediction](https://github.com/triggor/nyse-prediction)
+* [Bank Marketing Campaign](https://github.com/darshan-kale-dsi/Bank-Marketing-Campaign)
+* [Customer Purchasing Behaviours](https://github.com/sunshinesharon/Customer-Purchasing-Behaviors)
+* [Stroke Prediction](https://github.com/RuiQianSun/team7)

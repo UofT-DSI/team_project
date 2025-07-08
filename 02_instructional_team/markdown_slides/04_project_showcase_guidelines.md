@@ -15,7 +15,7 @@ $ echo "Data Sciences Institute"
 
 # Project Submission
 
-* The DSI team will begin evaluating your projects and providing feedback next Monday, March 24th.
+* The DSI team will begin evaluating your projects and providing feedback next Monday, July 28th.
 
 * We encourage you to record your videos after the Project Showcase, as you will likely get some good ideas on how to describe your project!
 
@@ -33,7 +33,7 @@ $ echo "Data Sciences Institute"
 
 # Project Showcase
 
-* **The showcase will start at 10:00am on Saturday, March 22nd.**
+* **The showcase will start at 09:00am ET on Saturday, July 26th.**
 
 * Each team will have 5 minutes to present your project. We will not be taking questions after each presentation, but if you do have questions for another team please write them down and we will go over them if there is time.
 
