@@ -159,6 +159,8 @@ Focus on:
 
 ---
 
+# Business Impact
+
 Showcase your project’s business value by applying specialized skills:
 
 - **📊 Data Science Stream**: Apply the techniques learned in your sampling and visualization modules to deliver impactful data insights.
@@ -187,7 +189,7 @@ Ensure your presentations translate complex data into clear, actionable business
 
 # Making Complex Concepts Accessible
 
-Communicating complex data science concepts clearly is essential for audiences without technical backgrounds, **including recruiters and HR teams.**
+Communicating complex data science concepts clearly is essential for audiences without technical backgrounds, including recruiters and HR teams.
 
 Strategies to Enhance Understandability:
 - **Use Analogies and Metaphors**: Bridge understanding gaps with relatable comparisons.
@@ -204,11 +206,19 @@ Clear communication ensures your projects are comprehensible to all, enhancing y
 
 Before:
 ```
-"Improved patient outcomes by developing a predictive model using Python and scikit-learn. Data was preprocessed using pandas to handle missing values and standardize features. Logistic regression was selected through cross-validation due to its interpretability and performance."
+"Improved patient outcomes by developing a predictive model using Python and scikit-learn. Data was 
+preprocessed using pandas to handle missing values and standardize features. Logistic regression was 
+selected through cross-validation due to its interpretability and performance."
 ```
 After:
 ```
-“Improved patient outcomes by developing a predictive model using Python and scikit-learn. Think of the predictive model as a way to forecast patient health based on past data, much like predicting the weather. Data was preprocessed using pandas to handle missing values and standardize features. This preprocessing is like organizing and cleaning up messy medical records to ensure all information is complete and consistent. Logistic regression was selected through cross-validation due to its interpretability and performance. Imagine trying  different medical treatments and choosing the one that consistently gives the best results; that’s what cross-validation does for model selection.”
+“Improved patient outcomes by developing a predictive model using Python and scikit-learn. Think of 
+the predictive model as a way to forecast patient health based on past data, much like predicting the 
+weather. Data was preprocessed using pandas to handle missing values and standardize features. This 
+preprocessing is like organizing and cleaning up messy medical records to ensure all information is 
+complete and consistent. Logistic regression was selected through cross-validation due to its 
+interpretability and performance. Imagine trying  different medical treatments and choosing the one 
+that consistently gives the best results; that’s what cross-validation does for model selection.”
 
 ```
 

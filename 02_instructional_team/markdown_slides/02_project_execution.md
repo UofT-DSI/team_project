@@ -112,7 +112,7 @@ You may explore project management methodologies like Scrum, Kanban, Waterfall, 
 
 Setting realistic time frames for your project stages is crucial. Use S.M.A.R.T goals to structure your planning effectively:
 
-- **Specific**: Define clear details about what needs to be achieved, who's involved, and where it will occur.
+- **Specific**: Define clear details about what needs to be achieved, and who's involved.
 - **Measurable**: Establish concrete criteria for measuring progress and success.
 - **Achievable**: Ensure the goals are realistic, considering available resources and constraints.
 - **Relevant**: Align goals with broader business objectives to ensure they are meaningful.

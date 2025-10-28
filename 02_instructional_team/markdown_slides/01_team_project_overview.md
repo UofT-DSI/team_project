@@ -182,10 +182,10 @@ Your final project will be evaluated on the following criteria:
 
 # Expectations for Week 1
 
-After Week 1, you will only be evaluated on your project's README file. By this point, it must include a detailed project proposal. This should include:
+After Week 1, you will only be evaluated on your project proposal, which must be in your project's README file. It should include:
 
 1. The business motivation for your project.
-2. Which dataset you have chosen to use
+2. Which dataset you have chosen to use.
 3. Risks or unknowns that you have identified.
 4. How you will approach the analysis.
 5. Breakdown of roles/tasks assigned to each team member.
@@ -321,7 +321,7 @@ The following two weeks will fly by quickly! How will you ensure that you can ac
 
 1. **Clear objectives and milestones**. Milestones should be set working backward from the final project goal and deadline.
 
-2. **Accountability**. Every action item should have someone assigned. (Of course, the assigned person can change if workloads become unbalanced.)
+2. **Accountability**. Every action item should have someone assigned (the assigned person can change if workloads become unbalanced). 
 
 3. **Communication of roadblocks**. It is just as important to communicate roadblocks and failures as successes. The faster problems are identified, the faster they can be addressed.
 
@@ -329,15 +329,13 @@ The following two weeks will fly by quickly! How will you ensure that you can ac
 
 ## Working as a Team
 
-4. **Tracking**. Tracking your tasks is necessary to objectively assess your progress as a team. The data-driven mindset applies here too! If you fall behind, update your plan accordingly. 
+4. **Tracking**. Tracking your tasks is necessary to objectively assess your progress as a team (using software such as [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects) is helpful). The data-driven mindset applies here too! If you fall behind, update your plan accordingly.
 
 5. **Documentation**. Team members should be able to understand and continue each others' work where necessary.
 
 ---
 
 # Module Schedule
-
-_Each day will include "standup" meetings with your team, and either the Technical Facilitator or Learning Support._
 
 __Day 1 (Tues):__ Content delivery, co-work.
 
