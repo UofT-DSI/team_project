@@ -13,6 +13,13 @@ $ echo "Data Sciences Institute"
 
 --- 
 
+# Today
+
+1. Review from last week.
+2. Communicating business impact.
+
+---
+
 # Review
 
 * Last week, we focused on several key topics:
@@ -46,19 +53,19 @@ Your final project will be evaluated on the following criteria:
 
 # Final Project Submission
 
-3. In addition to the project proposal from Week 1, each project's README should describe the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the [guiding questions](#reviewing-your-dataset).
+3. In addition to the project proposal from Week 1, each project's README should describe the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the guiding questions listed in this repository's README.
 
 ---
 
 # Final Project Submission
 
-4. Your project must include ***one completely reproducible feature***. This could be a single visualization, training and storing a model, or using a previously trained model to predict results, and the value of the feature should be described in your README. It could be formatted as a self-contained Jupyter notebook or a script, however anyone new to your project should be able to reproduce it based on the instructions provided, including any software, data, or file dependencies.
+4. Your project should be ***completely reproducible***. This means that anyone (e.g. the instructional team for marking, or potential employers for evaluating your work) should be able to completely recreate your analysis and results based on the instructions in your repository. This includes any software and data dependencies. You should test this by trying to regenerate your results from scratch.
 
 ---
 
 # Final Project Submission
 
-5. Each team member must record a 3-5 minute video reflecting on your experience. You may each choose where to host your own video, however _it should be public and a link to each team member's video should be included in your project README_. This video is meant to be an asset to your portfolio, and should be available for prospective employers. Your videos should answer the following questions:
+5. Each team member must record a 3-5 minute video reflecting on your experience. You may each choose where to host your own video, however it should be public and a link to each team member's video should be included in your project README. This video is meant to be an asset to your portfolio, and should be available for prospective employers. Your videos should answer the following questions:
     * What did you learn?
     * What challenges did you face?
     * How did you overcome those challenges?
@@ -79,7 +86,7 @@ Your final project will be evaluated on the following criteria:
 # Crafting a Comprehensive Main README File
 
 - **Purpose & Overview:** Introduce the project with essential details, concise description and a project objective.
-- **Goals & Objectives:** Articulate what the project aims to achieve. _Include any changes made to the original project plan here._
+- **Goals & Objectives:** Articulate what the project aims to achieve. Include any changes made to the original project plan here.
 - **Techniques & Technologies:** Highlight the tools and methods used.
 - **Key Findings & Instructions:** Summarize outcomes and provide setup instructions.
 - **Visuals & Credits:** Enhance with visuals; acknowledge contributors.
@@ -88,47 +95,31 @@ Your final project will be evaluated on the following criteria:
 
 # This Week's Schedule
 
-__Day 6 (Tues):__ Review + Co-work + Standup Meetings.
+__Day 6 (Tues):__ Content delivery, co-work + standups.
 
-__Day 7 (Wed):__ Co-work + Standup Meetings.
+__Day 7 (Wed):__ Case study, co-work + standups.
 
-__Day 8 (Thurs):__ Case Study + Co-work.
+__Day 8 (Thurs):__ Co-work + standups.
 
 __Day 9 (Fri):__ Co-work.
 
-__Day 10 (Sat):__ Project Showcase.
+__Day 10 (Sat):__ Project showcase.
 
 ---
 
 # Standups
 
 * Each day, a member of the DSI instructional team will guide your team through a standup.  
-* Stand-ups are **quick, structured check-ins** that help teams stay on track and remove obstacles.  
+* Stand-ups are quick, structured check-ins that help teams stay on track and remove obstacles.  
 * The goal is not to compete for who did the most work, it’s to ensure the entire team is working effectively and efficiently.  
-* This is a great opportunity to help your teammates and **resolve blockers early**.  
-* Standups should take no more than **10 minutes**. 
+* This is a great opportunity to help your teammates and resolve blockers early.  
+* Standups should take no more than 10 minutes. 
 
 ---
 
 # Communicating & Presenting Your Findings
 
 ## Business Impact
-
----
-
-# Examples Across Sectors (Part 1)
-
-### Retail Example
-"***Optimized inventory management*** with SQL and Tableau. Data was cleaned and aggregated using SQL queries to identify sales patterns. Visualizations in Tableau helped to ***forecast demand, leading to cost savings of 5%."***
-
-*⏭️ Continued on next slide...*
-
----
-
-# Examples Across Sectors (Part 2)
-
-### Marketing Example
-***Increased customer engagement by 8%*** by performing customer segmentation using k-means clustering with Python. Feature engineering was conducted to create meaningful segments based on purchase history and demographics. The optimal number of clusters was determined using the elbow method, which helps identify the point where adding more clusters does not significantly improve the model.
 
 ---
 
@@ -142,6 +133,20 @@ Showcase your project’s business value by applying specialized skills:
 Ensure your presentations translate complex data into clear, actionable business insights.
 
 <!-- Speaker notes: Encourage Data Science stream participants to apply their sampling and visualization techniques effectively. Machine Learning stream participants should focus on illustrating model efficiency and optimization. Emphasize that both groups need to communicate how their projects provide tangible business value to potential employers. -->
+
+---
+
+# Examples of Quantifying Impact
+
+### Retail Example
+"***Optimized inventory management*** with SQL and Tableau. Data was cleaned and aggregated using SQL queries to identify sales patterns. Visualizations in Tableau helped to ***forecast demand, leading to cost savings of 5%."***
+
+---
+
+# Examples of Quantifying Impact
+
+### Marketing Example
+***Increased customer engagement by 8%*** by performing customer segmentation using k-means clustering with Python. Feature engineering was conducted to create meaningful segments based on purchase history and demographics. The optimal number of clusters was determined using the elbow method, which helps identify the point where adding more clusters does not significantly improve the model.
 
 ---
 
@@ -161,8 +166,6 @@ Clear communication ensures your projects are comprehensible to all, enhancing y
 ---
 
 # Example of Making Complex Concepts Accessible
-
-### Remember the "Healthcare Example" above?
 
 Before:
 ```

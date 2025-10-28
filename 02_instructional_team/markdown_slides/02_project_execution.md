@@ -19,9 +19,9 @@ $ echo "Data Sciences Institute"
 
 # Review
 
-* Yesterday, we discussed the goals of the Team Project and the value that it can bring to each of your portfolios. This is an opportunity to ***showcase the skills*** that you've learned, and your ability to apply them to a ***real-world problem*** to deliver ***real business value***.
+* Yesterday, we discussed the goals of the Team Project and the value that it can bring to each of your portfolios. This is an opportunity to showcase the skills that you've learned, and your ability to apply them to a real-world problem to deliver real business value.
 
-* You should now be reasonably aligned with your team on the **industry** that you will be analyzing, the **business question** that you want to answer, and the **type of data** you will be using.
+* You should now be reasonably aligned with your team on the industry that you will be analyzing, the business question that you want to answer, and the dataset you will be using.
 
 ---
 
@@ -36,20 +36,61 @@ $ echo "Data Sciences Institute"
 
 ---
 
-# Leveraging Project Management Methodologies
 
-Explore methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For now, let's focus on an essential concept: **spikes**.
+# Prepping You for the Industry  
 
-**Spikes** are short, time-boxed research tasks designed to answer specific questions or solve particular problems before starting the main project work. They are designed to _reduce uncertainty_.
+- Throughout the certificate, we’ve introduced the analogy:  
+  - **Participants → Junior Data Professionals**  
+  - **Learning Supports → Senior Data Professionals**  
+  - **Technical Facilitators → Product Managers**  
+- We’re now taking this further by incorporating stand-up meetings, a common practice in professional data teams.
 
 ---
 
+# Daily Standups
+
+* Stand-ups are quick (~10 min), structured check-ins that help teams stay on track and remove obstacles.  
+
+    * What did you work on yesterday?  
+    * What will you be working on today?  
+    * Are you unsure about any of your tasks?  
+    * Are you blocked by anything? 
+
+
+<!-- 
+Standups are not intended to see who has done the most work or who is slacking. They are a collaborative way to ensure that all team members know who is working on what, and whether anyone is stuck on their task and needs help. They are also extremely helpful in identifying blockers that may not be obvious. DSI team should emphasize the collaborative aspect of this and not put anyone on the spot. Learning should also be considered as a "task".
+-->
+
+---
+
+# Daily Standups
+
+- Stand-ups help teams stay aligned, communicate blockers, and improve efficiency.  
+- By practicing stand-ups, you’ll develop strong communication and collaboration skills that are essential in the workplace.  
+
+---
+
+# Daily Standups
+
+* Each day, a member of the DSI instructional team will guide your team through a stand-up.  
+* The goal is not to compete for who did the most work—it’s to ensure the entire team is working effectively and efficiently.  
+* This is a great opportunity to help your teammates and resolve blockers early.  
+* Standups should be kept to 10 minutes; longer chats related to specific tasks should be separate discussions.
+
+---
 
 # Handling Uncertainty in Your Project
 
-Throughout your project, there will be moments when you are unsure of how to proceed, or what task to work on next. **Spikes** help us reduce uncertainty and make these decisions!
+Throughout your project, there will be moments when you are unsure of how to proceed, or what task to work on next. Spikes help us reduce uncertainty and make these decisions!
 
-* Spikes are effort/time-bound tasks specifically designed to ***reduce uncertainty***, or make ***design/methodological decisions***.
+You may explore project management methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For now, we will focus on one particularly useful concept: **spikes**.
+
+---
+
+# Handling Uncertainty in Your Project
+
+* Spikes are short, time-boxed research tasks designed to answer specific questions or solve particular problems before starting the main project work.
+* They are designed to reduce uncertainty, or make design/methodological decisions
     * E.g. Choosing between two model types.
 * The outcome of a spike will be a more well-defined task(s).
     * E.g. Developing the model that seems more promising.
@@ -103,13 +144,13 @@ Setting realistic time frames for your project stages is crucial. Use S.M.A.R.T 
     * What are the risks and uncertainties?
     * What methods and technologies will you use?
 
-4. Assign data cleaning and analysis tasks to team members.
+4. Assign tasks such as data cleaning and exploratory analysis to team members.
 
 ---
 
 # Team Goals for Today
 
-Conduct a practise stand-up with your team! You should each be able to talk about:
+5. Conduct a practise stand-up with your team! You should each be able to talk about:
 
 * What you worked on yesterday.
 * What you are planning to do today.
