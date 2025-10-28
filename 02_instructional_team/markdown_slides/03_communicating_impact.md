@@ -22,6 +22,10 @@ $ echo "Data Sciences Institute"
 
 # Review
 
+---
+
+# Review
+
 * Last week, we focused on several key topics:
 
     1. How to present this project in your portfolio.
@@ -119,15 +123,46 @@ __Day 10 (Sat):__ Project showcase.
 
 # Communicating & Presenting Your Findings
 
-## Business Impact
+---
+
+# Communicating & Presenting Your Findings
+
+* Even if you have conducted a thorough analysis and found extremely useful results, your project will only be considered impactful if you communicate your findings effectively.
 
 ---
 
-# How to Effectively Communicate Business Impact
+# Communicating & Presenting Your Findings
+
+Focus on:
+
+1. Contextualizing your project.
+    * Clearly describe the business context for your project. What is the gap that you are filling with this work? Where does it fit in the wider industry landscape?
+2. Quantifying the business impact.
+    * What are the key takeaways for your stakeholders? Focus on actionable items.
+3. Making complex concepts accessible for your audience.
+    * How can you communicate technical concepts in a way that everyone can understand?
+    * Don't explain all your methodological details right away. Start with the big concepts and if the audience is interested in details they will ask.
+
+---
+
+# Project Context
+
+* Try to tell a story!
+* Start with the big picture, then slowly focus in on your specific project context.
+
+---
+
+# Business Impact
+
+* Quantify everything that you can!
+* Recommend actions that your audience can take to generate business value.
+
+---
 
 Showcase your project’s business value by applying specialized skills:
 
 - **📊 Data Science Stream**: Apply the techniques learned in your sampling and visualization modules to deliver impactful data insights.
+
 - **⚙️ Machine Learning Stream**: Demonstrate model efficiency and algorithm optimization with detailed performance graphs and clear pipeline visualizations.
 
 Ensure your presentations translate complex data into clear, actionable business insights.
@@ -136,7 +171,7 @@ Ensure your presentations translate complex data into clear, actionable business
 
 ---
 
-# Examples of Quantifying Impact
+## Examples of Quantifying Impact
 
 ### Retail Example
 "***Optimized inventory management*** with SQL and Tableau. Data was cleaned and aggregated using SQL queries to identify sales patterns. Visualizations in Tableau helped to ***forecast demand, leading to cost savings of 5%."***
@@ -146,7 +181,7 @@ Ensure your presentations translate complex data into clear, actionable business
 # Examples of Quantifying Impact
 
 ### Marketing Example
-***Increased customer engagement by 8%*** by performing customer segmentation using k-means clustering with Python. Feature engineering was conducted to create meaningful segments based on purchase history and demographics. The optimal number of clusters was determined using the elbow method, which helps identify the point where adding more clusters does not significantly improve the model.
+***Showed that customer engagement could be increased by 8% with a new segmentation scheme.*** Feature engineering was conducted to create meaningful customer segments based on purchase history and demographics.
 
 ---
 
@@ -165,49 +200,19 @@ Clear communication ensures your projects are comprehensible to all, enhancing y
 
 ---
 
-# Example of Making Complex Concepts Accessible
+## Example of Making Complex Concepts Accessible
 
 Before:
 ```
-"Improved patient outcomes by developing a predictive model using Python and scikit-learn. Data was preprocessed using pandas 
-to handle missing values and standardize features. Logistic regression was selected through cross-validation due to its 
-interpretability and performance."
+"Improved patient outcomes by developing a predictive model using Python and scikit-learn. Data was preprocessed using pandas to handle missing values and standardize features. Logistic regression was selected through cross-validation due to its interpretability and performance."
 ```
 After:
 ```
-“Improved patient outcomes by developing a predictive model using Python and scikit-learn. Think of the predictive model as a way
-to forecast patient health based on past data, much like predicting the weather. Data was preprocessed using pandas to handle
-missing values and standardize features. This preprocessing is like organizing and cleaning up messy medical records to ensure all
-information is complete and consistent. Logistic regression was selected through cross-validation due to its interpretability and
-performance. Imagine trying  different medical treatments and choosing the one that consistently gives the best results; that’s 
-what cross-validation does for model selection.”
+“Improved patient outcomes by developing a predictive model using Python and scikit-learn. Think of the predictive model as a way to forecast patient health based on past data, much like predicting the weather. Data was preprocessed using pandas to handle missing values and standardize features. This preprocessing is like organizing and cleaning up messy medical records to ensure all information is complete and consistent. Logistic regression was selected through cross-validation due to its interpretability and performance. Imagine trying  different medical treatments and choosing the one that consistently gives the best results; that’s what cross-validation does for model selection.”
 
 ```
 
 This approach effectively communicates complex concepts to both technical and non-technical audiences, ensuring clarity and comprehension across diverse stakeholders.
-
----
-
-# Final Presentation & Feedback Session
-
-- This day is for showcasing your progress on the project goals so far. It’s not about meeting all the requirements yet, but about presenting what your project is about, what you’ve done, and what you plan to do next. It’s also a chance to get feedback and ideas from your fellow participants. 
-- Each team has a maximum of 5 minutes to present. Put your best foot forward, as you may never get such a diverse audience of this size again. The audience is comprised of your fellow participants, who now have a good background in data science and machine learning, and have extensive expertise in their respective industries. They will serve as judges and provide valuable feedback.
-
----
-
-# Next Steps Post-Certification
-
-As you transition from the certificate, continue to build and showcase your skills.
-
-### Strategies for Continuous Growth:
-
-- **Active Portfolio**: Aim for 5-6 substantial projects to demonstrate a broad range of skills. Focus on quality over quantity.
-- **Explore and Learn**: Continue exploring new areas within data science and machine learning to keep your knowledge current and dynamic.
-- **Peer Collaboration**: Participate in group projects with fellow participants to enhance your skills and widen your professional network.
-
-Actively applying for jobs should proceed in tandem with these activities.
-
-<!-- Speaker notes: Emphasize that maintaining a portfolio with 5-6 diverse projects is ideal for demonstrating a commitment to the field and depth of skills. Clarify that the focus should be on the quality of projects rather than simply meeting a numerical target. Encourage participants to continuously apply for jobs, using their portfolios to strengthen their applications and showcase their ongoing engagement and expertise. Remind them that even after the modules end, they still have access to the Slack community (more information will come out later). This platform can be a valuable resource for finding project partners, asking questions, and getting feedback on their work. Additionally, advise them to present completed projects on LinkedIn. This not only timestamps their active engagement in relevant projects during job searches but also enhances their visibility and personal branding on a professional network. -->
 
 ---
 
