@@ -24,19 +24,18 @@ $ echo "Data Sciences Institute"
 
 ---
 # Team Project Overview
-__Goal:__ To enhance your portfolio by showcasing this team project as evidence of your ability to deliver real-world value to an employer.
+__Goal:__ To improve your portfolio by showcasing your ability to deliver real-world value to an employer.
 
 ---
 
 # Why This Module Matters  
 
-- This module is designed to help you create a **high-impact project** that showcases your skills in data science and machine learning.  
-- A **strong team project** can enhance your professional portfolio, making you more competitive in job applications.  
+- This module is designed to help you create a high-impact project that showcases your skills in data science/machine learning and your ability to work in a team setting.   
 - Your project will:  
-  - Demonstrate **your technical abilities and problem-solving skills**.  
-  - Serve as a **portfolio piece** for recruiters, hiring managers, and data science professionals.  
-  - Showcase **what you've learned throughout the certificate**.  
-- Once completed and refined based on feedback, you can **add it to your resume, GitHub, and LinkedIn** to increase your professional visibility.  
+  - Demonstrate your technical abilities and problem-solving skills.  
+  - Serve as a portfolio piece for recruiters, hiring managers, and data science professionals.  
+  - Showcase what you've learned throughout the certificate.  
+- Once completed and refined based on feedback, you can add it to your resume, GitHub, and LinkedIn to increase your professional visibility.  
 
 ---
 
@@ -45,32 +44,11 @@ __Goal:__ To enhance your portfolio by showcasing this team project as evidence 
 A good portfolio showcases your best work and highlights skills that are highly valued by employers in data science and machine learning. It demonstrates your ability to handle real-world tasks, making you an attractive candidate for employment.
 
 **Personalize Your Portfolio:**
-- **Remove unnecessary content:** As you work on your project, ensure that any unused files or folders are deleted to keep your repository clean and professional.
+- **Keep it streamlined:** As you work on your project, ensure that any unused files or folders are deleted to keep your repository clean and professional.
+
 - **Highlight your unique contributions and skills:** This personalization shows employers that you're not just completing assignments but are engaged and innovating on your projects.
 
 ---
-
-# Demonstrating Technical and Business Skills
-
-- **Demonstrate Coding Proficiency**: All projects should showcase your ability to write clean, efficient, and well-documented code.
-- **Showcase Communication Skills**: All projects should effectively communicate complex data-driven insights in a non-technical way.
-
-Your ability to document code clearly and communicate effectively can drastically reduce onboarding times for new team members and help non-technical stakeholders make informed decisions, thereby enhancing overall project success and team efficiency.
-
----
-# Types of Projects to Include in Your Portfolio
-
-Including a diverse range of projects in your portfolio can significantly enhance your appeal to potential employers. Consider including a variety of project types to demonstrate the breadth and depth of your data science skills:
-
-1. **Data Cleaning Project:** Show your ability to prepare data for analysis.
-2. **Data Storytelling and Visualization Project:** Highlight your skills in interpreting and presenting data in compelling ways.
-3. **ML Modeling:** Demonstrate your proficiency in building and tuning models.
-4. **Group Project:** Showcase your teamwork and collaboration skills. (already doing this! 🥳)
-
-For more, read "[How to Create a Project Portfolio for Data Science Job Applications](https://www.dataquest.io/blog/career-guide-data-science-projects-portfolio/)"
-
----
-
 
 # Selecting Projects That Showcase Your Skills
 
@@ -84,6 +62,30 @@ These criteria ensure that your projects not only highlight your technical skill
 
 ---
 
+# Demonstrating Technical and Business Skills
+
+- **Demonstrate Coding Proficiency**: All projects should showcase your ability to write clean, efficient, and well-documented code.
+- **Showcase Communication Skills**: All projects should effectively communicate complex data-driven insights in a non-technical way.
+
+Your ability to document code clearly and communicate effectively can drastically reduce onboarding times for new team members and help non-technical stakeholders make informed decisions, thereby enhancing overall project success and team efficiency.
+
+---
+
+# Types of Projects to Include in Your Portfolio
+
+Including a diverse range of projects in your portfolio can significantly enhance your appeal to potential employers. Consider including a variety of project types to demonstrate the breadth and depth of your data science skills:
+
+1. **Data Cleaning Project:** Show your ability to prepare data for analysis.
+
+2. **Data Storytelling and Visualization Project:** Highlight your skills in interpreting and presenting data in compelling ways.
+
+3. **ML Modeling:** Demonstrate your proficiency in building and tuning models.
+
+4. **Group Project:** Showcase your teamwork and collaboration skills.
+
+For more, read "[How to Create a Project Portfolio for Data Science Job Applications](https://www.dataquest.io/blog/career-guide-data-science-projects-portfolio/)"
+
+---
 
 # Showcase Projects That Use Diverse Data Types
 
@@ -101,7 +103,7 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 ---
 
-# ✅ Developing a Project Plan
+# Developing a Project Plan
 
 1. **Understand the business context**: "We want to increase customer engagement by 10%."
 2. **Identify an opportunity**: "Customer segmentation will enable targeted marketing campaigns, which should increase customer engagement."
@@ -111,7 +113,7 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 ---
 
-# ✅ Developing a Project Plan
+# Developing a Project Plan
 
 1. Understand the business context.
 2. Identify an opportunity.
@@ -157,13 +159,13 @@ Your final project will be evaluated on the following criteria:
 
 # Final Project Submission
 
-3. Each project's README should describe the project objective, the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the [guiding questions](#reviewing-your-dataset).
+3. Each project's README should describe the project objective, the final outcome of the project, the key business takeaways, and describe your team's approach to working collaboratively. It should also demonstrate thoughtful consideration of the guiding questions listed in this repository's README.
 
 ---
 
 # Final Project Submission
 
-4. Your project must include ***one completely reproducible feature***. This could be a single visualization, training and storing a model, or using a previously trained model to predict results, and the value of the feature should be described in your README. It could be formatted as a self-contained Jupyter notebook or a script, however anyone new to your project should be able to reproduce it based on the instructions provided, including any software, data, or file dependencies.
+4. Your project should be ***completely reproducible***. This means that anyone (e.g. the instructional team for marking, or potential employers for evaluating your work) should be able to completely recreate your analysis and results based on the instructions in your repository. This includes any software and data dependencies. You should test this by trying to regenerate your results from scratch.
 
 ---
 
@@ -180,24 +182,27 @@ Your final project will be evaluated on the following criteria:
 
 # Expectations for Week 1
 
-After Week 1, you will be evaluated on your project's README file. By this point, it must include a detailed project proposal. This should include the business motivation for your project, the dataset you have chosen to use, and any risks or unknowns you have identified.
+After Week 1, you will only be evaluated on your project proposal, which must be in your project's README file. It should include:
+
+1. The business motivation for your project.
+2. Which dataset you have chosen to use.
+3. Risks or unknowns that you have identified.
+4. How you will approach the analysis.
+5. Breakdown of roles/tasks assigned to each team member.
 
 ---
 
 # Project Examples
 
-* [Pharma Spending by Countries](https://github.com/amlloren/pharma_spending_by_countries) (Cohort 4)
-* [Breast Cancer Wisconsin](https://github.com/HimeshiS/Team5_Breast_Cancer_Wisconsin) (Cohort 4)
-* [NYSE Prediction](https://github.com/triggor/nyse-prediction) (Cohort 4)
-* [Bank Marketing Campaign](https://github.com/darshan-kale-dsi/Bank-Marketing-Campaign) (Cohort 5)
-* [Customer Purchasing Behaviours](https://github.com/sunshinesharon/Customer-Purchasing-Behaviors) (Cohort 5)
-* [Stroke Prediction](https://github.com/RuiQianSun/team7) (Cohort 5)
+* [Bank Marketing Campaign](https://github.com/darshan-kale-dsi/Bank-Marketing-Campaign) (Machine Learning)
+* [Customer Purchasing Behaviours](https://github.com/sunshinesharon/Customer-Purchasing-Behaviors) (Data Science)
+* [Stroke Prediction](https://github.com/RuiQianSun/team7) (Machine Learning)
+* [Car Sales Analysis](https://github.com/emailmealoy/Car-Sales-Trend_DS7) (Data Science)
+* [Insights from Bank Marketing](https://github.com/blackpearl/ML_T7_Bank-Marketing) (Machine Learning)
 
 ---
 
 # Working as a Team
-
-## GitHub
 
 ---
 
@@ -211,12 +216,24 @@ After Week 1, you will be evaluated on your project's README file. By this point
 
 # Managing your Repository as a Team
 
-- Do not commit directly to the **main** branch!
-- Each feature should be developed in its own branch, then merged into **main** when it has been completed and tested.
+- Do not commit directly to the `main` branch!
+- Each feature should be developed in its own branch, then merged into `main` when it has been completed and tested.
 
 ---
 
-# Merge Conflicts
+# Managing your Repository as a Team
+
+## Workflow for feature development
+
+1. Pull the latest code from the remote `main` branch to your local `main` branch.
+2. Create a new branch from `main`, named according to the feature you are working on.
+3. As you develop your feature, make sure you are regularly committing your changes and pushing them to the remote feature branch.
+4. Once you have finished developing and testing, create a Pull Request to merge the feature branch into the `main` branch.
+5. Make sure another team member is assigned to review and merge the PR.
+
+---
+
+## Merge Conflicts
 
 It is likely that you will encounter merge conflicts when combining your work as a team.
 Make sure you've reviewed the Git material regarding how to resolve merge conflicts properly!
@@ -245,11 +262,16 @@ Focus on the essence of what makes a README effective: clarity and conciseness. 
 
 # Writing Clear Documentation (README & Comments)
 
-While **you can have multiple README files** in your repository, include only one README file per folder to keep things clean and simple. This structure showcases your ability to manage and present complex information effectively, increasing your appeal to potential employers.
+While you can have multiple README files in your repository, include only one README file per folder to keep things clean and simple. This structure showcases your ability to manage and present complex information effectively, increasing your appeal to potential employers.
 
 **Effective commenting enhances code readability and maintainability, crucial for collaborative environments.**
 
-If someone with no tech background reads your code, they should get the essence of what you are doing and how the code flows. This practice not only aids in understanding but also facilitates smoother transitions and updates within team projects.
+---
+
+# Writing Clear Documentation (README & Comments)
+
+
+If someone with no technical background reads your code, they should get the essence of what you are doing and how the code flows. This practice not only aids in understanding but also facilitates smoother transitions and updates within team projects.
 
 📰 [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
 
@@ -299,7 +321,7 @@ The following two weeks will fly by quickly! How will you ensure that you can ac
 
 1. **Clear objectives and milestones**. Milestones should be set working backward from the final project goal and deadline.
 
-2. **Accountability**. Every action item should have someone assigned. (Of course, the assigned person can change if workloads become unbalanced.)
+2. **Accountability**. Every action item should have someone assigned (the assigned person can change if workloads become unbalanced). 
 
 3. **Communication of roadblocks**. It is just as important to communicate roadblocks and failures as successes. The faster problems are identified, the faster they can be addressed.
 
@@ -307,56 +329,19 @@ The following two weeks will fly by quickly! How will you ensure that you can ac
 
 ## Working as a Team
 
-4. **Tracking**. Tracking your tasks is necessary to objectively assess your progress as a team. The data-driven mindset applies here too! If you fall behind, update your plan accordingly. 
+4. **Tracking**. Tracking your tasks is necessary to objectively assess your progress as a team (using software such as [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects) is helpful). The data-driven mindset applies here too! If you fall behind, update your plan accordingly.
 
 5. **Documentation**. Team members should be able to understand and continue each others' work where necessary.
 
 ---
 
-# Prepping You for the Industry  
-
-- Throughout the certificate, we’ve introduced the analogy:  
-  - **Participants → Junior Data Professionals**  
-  - **Learning Supports → Senior Data Professionals**  
-  - **Technical Facilitators → Product Managers**  
-- We’re now taking this further by incorporating **stand-up meetings**, a common practice in professional data teams.  
-- Stand-ups help teams **stay aligned, communicate blockers, and improve efficiency**.  
-- By practicing stand-ups, you’ll develop **strong communication and collaboration skills** that are essential in the workplace.  
-
----
-
-# Daily "Standups"
-
-* Each day, a member of the DSI instructional team will guide your team through a stand-up.  
-* Stand-ups are **quick, structured check-ins** that help teams stay on track and remove obstacles.  
-* The goal is not to compete for who did the most work—it’s to ensure the entire team is working effectively and efficiently.  
-* This is a great opportunity to help your teammates and **resolve blockers early**.  
-* Stand-ups should take no more than **10 minutes**.  
-
----
-
-# Daily "Standups"  
-
-* Each team member should describe:  
-  * What did you work on yesterday?  
-  * What will you be working on today?  
-  * Are you unsure about any of your tasks?  
-  * Are you blocked by anything?  
-
-<!-- 
-Standups are not intended to see who has done the most work or who is slacking. They are a collaborative way to ensure that all team members know who is working on what, and whether anyone is stuck on their task and needs help. They are also extremely helpful in identifying blockers that may not be obvious. DSI team should emphasize the collaborative aspect of this and not put anyone on the spot. Learning should also be considered as a "task".
--->
----
-
 # Module Schedule
 
-_Each day will include "standup" meetings with your team, and either the Technical Facilitator or Learning Support._
+__Day 1 (Tues):__ Content delivery, co-work.
 
-__Day 1 (Tues):__ [no session]
+__Day 2 (Wed):__ Content delivery, co-work + standups.
 
-__Day 2 (Wed):__ 1 hour of content delivery, 1.5 hours of co-work.
-
-__Day 3 (Thurs):__ 0.5 hours of content delivery, 2 hours of co-work.
+__Day 3 (Thurs):__ Co-work + standups.
 
 __Day 4 (Fri):__ Co-work.
 
@@ -366,11 +351,11 @@ __Day 5 (Sat):__ Co-work.
 
 # Module Schedule
 
-__Day 6 (Tues):__ Review + co-work + Standup Meetings.
+__Day 6 (Tues):__ Content delivery, co-work + standups.
 
-__Day 7 (Wed):__ Co-work + Standup Meetings.
+__Day 7 (Wed):__ Case study, co-work + standups.
 
-__Day 8 (Thurs):__ Case Study.
+__Day 8 (Thurs):__ Co-work + standups.
 
 __Day 9 (Fri):__ Co-work.
 
@@ -379,6 +364,8 @@ __Day 10 (Sat):__ Project showcase.
 ---
 
 # Goals for Today
+
+* Pick an industry.
 
 * Start developing a business case.
 
