@@ -1,7 +1,6 @@
 ---
 marp: true
 theme: dsi_certificates_theme
-_class: invert
 paginate: true
 ---
 
@@ -144,11 +143,11 @@ Setting realistic time frames for your project stages is crucial. Use S.M.A.R.T 
     * What are the risks and uncertainties?
     * What methods and technologies will you use?
 
-4. Assign tasks such as data cleaning and exploratory analysis to team members.
-
 ---
 
 # Team Goals for Today
+
+4. Assign tasks such as data cleaning and exploratory analysis to team members.
 
 5. Conduct a practise stand-up with your team! You should each be able to talk about:
 

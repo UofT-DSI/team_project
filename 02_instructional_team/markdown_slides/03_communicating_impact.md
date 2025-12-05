@@ -1,7 +1,6 @@
 ---
 marp: true
 theme: dsi_certificates_theme
-_class: invert
 paginate: true
 ---
 
@@ -131,9 +130,7 @@ __Day 10 (Sat):__ Project showcase.
 
 ---
 
-# Communicating & Presenting Your Findings
-
-Focus on:
+# Focus on:
 
 1. Contextualizing your project.
     * Clearly describe the business context for your project. What is the gap that you are filling with this work? Where does it fit in the wider industry landscape?
@@ -210,6 +207,10 @@ Before:
 preprocessed using pandas to handle missing values and standardize features. Logistic regression was 
 selected through cross-validation due to its interpretability and performance."
 ```
+---
+
+## Example of Making Complex Concepts Accessible
+
 After:
 ```
 “Improved patient outcomes by developing a predictive model using Python and scikit-learn. Think of 
